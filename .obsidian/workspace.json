@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "证明.md",
+                "file": "dsp/1. 离散序列与系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "证明"
+              "title": "1. 离散序列与系统"
             }
           },
           {
@@ -178,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5bc5633bbbb3025a",
@@ -276,7 +277,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 623.5
+    "width": 623.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,10 +292,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9cb6261986b56159",
+  "active": "14f0f01146ae0afc",
   "lastOpenFiles": [
-    "sx/未命名.md",
     "证明.md",
+    "未命名",
+    "sx/未命名.md",
     "dsp/包络和频谱包络.md",
     "未命名 6.base",
     "未命名 1.base",
@@ -333,11 +336,9 @@
     "sx/🧵2.行列式.md",
     "sx/🌟常见函数求导公式大全.md",
     "sx/🌟基础解系和极大线性无关组.md",
-    "sx/🌟常见非基本积分公式大全.md",
     "未命名.base",
     "空间图形（一定要会画）.pdf",
     "26张宇基础30讲（高数）-195-219.pdf",
-    "未命名.canvas",
-    "未命名 7.base"
+    "未命名.canvas"
   ]
 }
