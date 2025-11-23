@@ -260,13 +260,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "9cb6261986b56159",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 623.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -280,8 +290,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14f0f01146ae0afc",
+  "active": "9cb6261986b56159",
   "lastOpenFiles": [
+    "sx/未命名.md",
+    "证明.md",
     "dsp/包络和频谱包络.md",
     "未命名 6.base",
     "未命名 1.base",
@@ -322,7 +334,6 @@
     "sx/🌟常见函数求导公式大全.md",
     "sx/🌟基础解系和极大线性无关组.md",
     "sx/🌟常见非基本积分公式大全.md",
-    "sx/🌟非齐次方程组的解集的秩.md",
     "未命名.base",
     "空间图形（一定要会画）.pdf",
     "26张宇基础30讲（高数）-195-219.pdf",
