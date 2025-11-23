@@ -1,0 +1,333 @@
+{
+  "main": {
+    "id": "ef4bab4d9dcd3d74",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dfad34d0e9e514c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47f673d6c1795b6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sx/【重点复习】.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "【重点复习】"
+            }
+          },
+          {
+            "id": "60f83a228c50a999",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sx/🌟矩阵乘积可交换总结.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🌟矩阵乘积可交换总结"
+            }
+          },
+          {
+            "id": "4fcbd07ea19c71ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sx/🌲5.多元函数积分学及其应用.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🌲5.多元函数积分学及其应用"
+            }
+          },
+          {
+            "id": "20c9cc62bf7258f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sx/🌲6.微分方程及其应用.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🌲6.微分方程及其应用"
+            }
+          },
+          {
+            "id": "214bae566b41b69d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sx/🌲1.函数（数列）极限和连续做题必记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🌲1.函数（数列）极限和连续做题必记"
+            }
+          },
+          {
+            "id": "14f0f01146ae0afc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dsp/包络和频谱包络.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "包络和频谱包络"
+            }
+          },
+          {
+            "id": "d1e15449d529c724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名 3"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f111dde9076a289",
+    "type": "split",
+    "children": [
+      {
+        "id": "45cb01fd14073e23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd8085244ec53d6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sx/【计划】.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "【计划】"
+            }
+          },
+          {
+            "id": "bd29c57c5f4070df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "7235353156437db6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "fceb503807d6a755",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5bc5633bbbb3025a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3c1040dbb136c28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "267413da14145e7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dsp/包络和频谱包络.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "包络和频谱包络 的反向链接列表"
+            }
+          },
+          {
+            "id": "8f9767796e0ca8a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "dsp/1. 离散序列与系统.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "1. 离散序列与系统 的出链列表"
+            }
+          },
+          {
+            "id": "ef0dffdd45963432",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f0bb628d4378d79e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "未命名 的大纲"
+            }
+          },
+          {
+            "id": "16ec3aeaa14042c3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "bd29c57c5f4070df",
+  "lastOpenFiles": [
+    "dsp/1. 离散序列与系统.md",
+    "dsp/矩形窗.md",
+    "sx/🌲5.多元函数积分学及其应用.md",
+    "sx/🌲1.函数（数列）极限和连续做题必记.md",
+    "sx/🌲2.一元微分学及其应用.md",
+    "sx/🌲6.微分方程及其应用.md",
+    "未命名 5.base",
+    "未命名 6.base",
+    "sx/🌲空间解析几何.md",
+    "sx/🌲7.反常积分和无穷级数（待）.md",
+    "未命名 4.base",
+    "未命名 3.base",
+    "截屏 2025-11-22 21.25.54.jpeg",
+    "Pasted image 20251122202841.png",
+    "sx/🌲4.多元函数微分学及其应用.md",
+    "Pasted image 20251122125156.png",
+    "Pasted image 20251122125154.png",
+    "截屏2025-11-21 17.19.50.png",
+    "未命名 3.md",
+    "截屏2025-11-21 15.52.11.png",
+    "Pasted image 20251121154504.png",
+    "Pasted image 20251121153503.png",
+    "Pasted image 20251121143753.png",
+    "sx/🌟0的等价无穷小.md",
+    "sx/🌲中值定理mean value theorem（微分与积分）.md",
+    "Pasted image 20251121140743.png",
+    "sx/🌟矩阵乘积可交换总结.md",
+    "未命名 2.base",
+    "sx/📈2.随机变量及其分布及数字特征.md",
+    "sx/【计划】.md",
+    "sx/🌲3.一元积分学及其应用.md",
+    "sx/🧵6.【‼️】线性方程组.md",
+    "sx/🧵5.二次型.md",
+    "sx/🧵3.矩阵和向量组.md",
+    "sx/🧵2.行列式.md",
+    "sx/🌟常见函数求导公式大全.md",
+    "sx/🌟基础解系和极大线性无关组.md",
+    "sx/🌟常见非基本积分公式大全.md",
+    "sx/🌟非齐次方程组的解集的秩.md",
+    "sx/📈1.随机事件与概率.md",
+    "sx/🌟泰勒展开式及形式展开式.md",
+    "未命名.base",
+    "空间图形（一定要会画）.pdf",
+    "26张宇基础30讲（高数）-195-219.pdf",
+    "未命名.canvas",
+    "未命名 1.base",
+    "未命名 7.base"
+  ]
+}
