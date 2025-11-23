@@ -95,14 +95,10 @@
             "id": "d1e15449d529c724",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 3.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "未命名 3"
+              "title": "新标签页"
             }
           }
         ],
@@ -178,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5bc5633bbbb3025a",
@@ -294,8 +289,8 @@
   },
   "active": "14f0f01146ae0afc",
   "lastOpenFiles": [
-    "sx/🌲6.微分方程及其应用.md",
     "dsp/1. 离散序列与系统.md",
+    "sx/🌲6.微分方程及其应用.md",
     "dsp/Dirichlet函数.md",
     "dsp/复数等比级数收敛充要条件证明.md",
     "Pasted image 20251123145211.png",
