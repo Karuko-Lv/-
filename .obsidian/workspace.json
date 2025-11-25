@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsp/1. 离散序列与系统.md",
+                "file": "sx/🌲7.反常积分和无穷级数（待）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. 离散序列与系统"
+              "title": "🌲7.反常积分和无穷级数（待）"
             }
           },
           {
@@ -174,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5bc5633bbbb3025a",
