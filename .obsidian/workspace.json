@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47f673d6c1795b6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sx/【重点复习】.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "【重点复习】"
-            }
-          },
-          {
             "id": "60f83a228c50a999",
             "type": "leaf",
             "state": {
@@ -76,37 +62,8 @@
               "icon": "lucide-file",
               "title": "🌲7.反常积分和无穷级数（待）"
             }
-          },
-          {
-            "id": "14f0f01146ae0afc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dsp/1. 离散序列与系统.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. 离散序列与系统"
-            }
-          },
-          {
-            "id": "8e096843f7351400",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,14 +129,26 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "8e096843f7351400",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 632.5024719238281
   },
   "right": {
     "id": "5bc5633bbbb3025a",
@@ -291,8 +260,51 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14f0f01146ae0afc",
+  "floating": {
+    "id": "8b1b212804529a48",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2ab4264dd4cae865",
+        "type": "window",
+        "children": [
+          {
+            "id": "265fb245dbe4fcdf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9283950a6010862d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "dsp/1. 离散序列与系统.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1. 离散序列与系统"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 949,
+        "y": 59,
+        "width": 1566.306884765625,
+        "height": 882.3724975585938,
+        "maximize": false,
+        "zoom": -0.5
+      }
+    ]
+  },
+  "active": "9283950a6010862d",
   "lastOpenFiles": [
+    "sx/【计划】.md",
+    "dsp/1. 离散序列与系统.md",
+    "未命名.base",
+    "sx/【重点复习】.md",
     "截屏2025-11-26 16.02.58.png",
     "截屏2025-11-26 16.02.21.png",
     "截屏2025-11-26 15.58.50.png",
@@ -303,9 +315,7 @@
     "Pasted image 20251126112307.png",
     "截屏2025-11-25 23.04.48.png",
     "截屏2025-11-25 22.16.45.png",
-    "截屏2025-11-25 20.00.27.png",
     "未命名.md",
-    "dsp/1. 离散序列与系统.md",
     "sx/🌲7.反常积分和无穷级数（待）.md",
     "sx/🌲1.函数（数列）极限和连续做题必记.md",
     "sx/🌲6.微分方程及其应用.md",
@@ -333,10 +343,7 @@
     "sx/🌟矩阵乘积可交换总结.md",
     "未命名 2.base",
     "sx/📈2.随机变量及其分布及数字特征.md",
-    "sx/【计划】.md",
     "sx/🌲3.一元积分学及其应用.md",
-    "sx/🧵6.【‼️】线性方程组.md",
-    "未命名.base",
     "空间图形（一定要会画）.pdf",
     "26张宇基础30讲（高数）-195-219.pdf",
     "未命名.canvas"
