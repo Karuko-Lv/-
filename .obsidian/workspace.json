@@ -233,12 +233,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "dsp/3.离散傅里叶变换的快速算法.md",
+                    "file": "dsp/3.离散傅里叶变换的快速算法FFT (Fast Fourier Transform).md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "3.离散傅里叶变换的快速算法"
+                  "title": "3.离散傅里叶变换的快速算法FFT (Fast Fourier Transform)"
                 }
               },
               {
@@ -270,7 +270,7 @@
   },
   "active": "0a4e65b516e98fa5",
   "lastOpenFiles": [
-    "dsp/3.离散傅里叶变换的快速算法.md",
+    "dsp/3.离散傅里叶变换的快速算法FFT (Fast Fourier Transform).md",
     "dsp/🌟归一化因子.md",
     "dsp/🌟低通滤波器应用.md",
     "未命名",
