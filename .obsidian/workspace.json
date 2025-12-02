@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsp/4.IIR数字滤波器的设计.md",
+                "file": "dsp/3.离散傅里叶变换的快速算法FFT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.IIR数字滤波器的设计"
+              "title": "3.离散傅里叶变换的快速算法FFT"
             }
           },
           {
@@ -251,12 +251,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "dsp/3.离散傅里叶变换的快速算法FFT (Fast Fourier Transform).md",
+                    "file": "dsp/3.离散傅里叶变换的快速算法FFT.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "3.离散傅里叶变换的快速算法FFT (Fast Fourier Transform)"
+                  "title": "3.离散傅里叶变换的快速算法FFT"
                 }
               }
             ]
@@ -272,10 +272,10 @@
       }
     ]
   },
-  "active": "20c9cc62bf7258f7",
+  "active": "0a4e65b516e98fa5",
   "lastOpenFiles": [
     "dsp/4.IIR数字滤波器的设计.md",
-    "dsp/3.离散傅里叶变换的快速算法FFT (Fast Fourier Transform).md",
+    "dsp/3.离散傅里叶变换的快速算法FFT.md",
     "dsp/1. 离散序列与系统.md",
     "未命名 3.md",
     "未命名 4.md",
