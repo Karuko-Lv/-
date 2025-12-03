@@ -245,7 +245,8 @@
                   "title": "未命名 5"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -258,13 +259,13 @@
       }
     ]
   },
-  "active": "5c4129a98a4007af",
+  "active": "9390e821de934660",
   "lastOpenFiles": [
-    "dsp/2.离散傅里叶变换 (DFT).md",
     "dsp/4.IIR数字滤波器的设计.md",
+    "未命名 5.md",
+    "dsp/2.离散傅里叶变换 (DFT).md",
     "dsp/3.离散傅里叶变换的快速算法FFT.md",
     "dsp/1. 离散序列与系统.md",
-    "未命名 5.md",
     "截屏2025-12-03 10.03.04.png",
     "4.0 引论.jpeg",
     "截屏2025-12-03 09.37.58.png",
