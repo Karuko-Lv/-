@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsp/3.离散傅里叶变换的快速算法FFT.md",
+                "file": "dsp/4.IIR数字滤波器的设计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.离散傅里叶变换的快速算法FFT"
+              "title": "4.IIR数字滤波器的设计"
             }
           }
         ]
@@ -210,46 +210,32 @@
     "type": "floating",
     "children": [
       {
-        "id": "6c995d14e970c8fd",
+        "id": "599cd7ead100bf95",
         "type": "window",
         "children": [
           {
-            "id": "50a3b5f1614eba05",
+            "id": "df706da0f736dbbd",
             "type": "tabs",
             "children": [
               {
-                "id": "5c4129a98a4007af",
+                "id": "183314d2c9f01d98",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "dsp/4.IIR数字滤波器的设计.md",
+                    "file": "dsp/5.FIR 数字滤波器设计.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "4.IIR数字滤波器的设计"
-                }
-              },
-              {
-                "id": "9390e821de934660",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "未命名 5.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "未命名 5"
+                  "title": "5.FIR 数字滤波器设计"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 445,
+        "x": 434,
         "y": 34,
         "width": 600,
         "height": 842,
@@ -258,15 +244,16 @@
       }
     ]
   },
-  "active": "5c4129a98a4007af",
+  "active": "183314d2c9f01d98",
   "lastOpenFiles": [
+    "dsp/4.IIR数字滤波器的设计.md",
+    "dsp/5.FIR 数字滤波器设计.md",
+    "dsp/3.离散傅里叶变换的快速算法FFT.md",
     "未命名 5.md",
     "未命名 7.md",
     "未命名 6.md",
-    "dsp/4.IIR数字滤波器的设计.md",
     "截屏2025-12-04 10.57.33.png",
     "4.3 脉冲响应不变法 - 2 脉冲响应不变法设计步骤.jpeg",
-    "dsp/3.离散傅里叶变换的快速算法FFT.md",
     "dsp/2.离散傅里叶变换 (DFT).md",
     "sx/🌲1.函数（数列）极限和连续做题必记.md",
     "4.3 脉冲响应不变法 - 1 脉冲响应不变法提出及设计原理.jpeg",
