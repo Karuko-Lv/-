@@ -25,12 +25,14 @@
             "id": "c37c251dd46cecdf",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "dsp/线性谱_汉明窗.png"
+                "file": "dsp/5.FIR 数字滤波器设计.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "线性谱_汉明窗"
+              "icon": "lucide-file",
+              "title": "5.FIR 数字滤波器设计"
             }
           }
         ],
@@ -257,10 +259,12 @@
       }
     ]
   },
-  "active": "183314d2c9f01d98",
+  "active": "c37c251dd46cecdf",
   "lastOpenFiles": [
+    "dsp/线性谱_综合对比.png",
     "dsp/线性谱_汉明窗.png",
     "dsp/5.FIR 数字滤波器设计.md",
+    "5.2 窗函数法设计线性相位FIR数字滤波器 - 3 加权窗和可调窗函数设计线性相位FIR滤波器.jpeg",
     "截屏2025-12-05 09.44.09.png",
     "截屏2025-12-05 09.42.56.png",
     "截屏2025-12-05 09.42.29.png",
@@ -269,7 +273,6 @@
     "截屏2025-12-05 09.19.17.png",
     "截屏2025-12-05 09.13.26.png",
     "截屏2025-12-05 09.03.40.png",
-    "dsp/线性谱_综合对比.png",
     "dsp/3_量化噪声(3bit).wav",
     "dsp/2_低采样率(混叠).wav",
     "dsp/1_原始高音质.wav",
