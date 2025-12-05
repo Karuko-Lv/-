@@ -242,6 +242,18 @@
                   "icon": "lucide-file",
                   "title": "5.FIR 数字滤波器设计"
                 }
+              },
+              {
+                "id": "f3f2bdfd677c617a",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "dsp/FIR_Blackman窗设计验证.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "FIR_Blackman窗设计验证"
+                }
               }
             ]
           }
@@ -258,18 +270,17 @@
   },
   "active": "183314d2c9f01d98",
   "lastOpenFiles": [
+    "dsp/FIR_Blackman窗设计验证.png",
+    "dsp/5.FIR 数字滤波器设计.md",
     "IMG_2296CC025B61-1 2.jpeg",
     "Pasted image 20251205101542.png",
     "5.2 窗函数法设计线性相位FIR数字滤波器 - 2 矩形窗函数设计线性相位FIR滤波器.jpeg",
     "dsp/窗函数_综合对比分析.png",
-    "dsp/5.FIR 数字滤波器设计.md",
     "dsp/线性谱_综合对比.png",
     "dsp/线性谱_汉明窗.png",
     "5.2 窗函数法设计线性相位FIR数字滤波器 - 3 加权窗和可调窗函数设计线性相位FIR滤波器.jpeg",
     "截屏2025-12-05 09.44.09.png",
     "截屏2025-12-05 09.42.56.png",
-    "截屏2025-12-05 09.42.29.png",
-    "截屏2025-12-05 09.31.37.png",
     "dsp/3_量化噪声(3bit).wav",
     "dsp/2_低采样率(混叠).wav",
     "dsp/1_原始高音质.wav",
