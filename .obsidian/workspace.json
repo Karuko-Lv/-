@@ -258,8 +258,10 @@
   },
   "active": "bf29fde3e00011b1",
   "lastOpenFiles": [
+    "6.1 IIR数字滤波器的基本结构 - 1 IIR滤波器直接型结构.jpeg",
     "dsp/5.FIR 数字滤波器设计.md",
     "dsp/6. 数字滤波器的结构及实现.md",
+    "837生物信号处理真题2017——2024.jpeg",
     "dsp/FIR_Blackman窗设计验证.png",
     "未命名 6.md",
     "线性相位移位对比.md",
@@ -279,7 +281,6 @@
     "IMG_2296CC025B61-1 2.jpeg",
     "Pasted image 20251205101542.png",
     "5.2 窗函数法设计线性相位FIR数字滤波器 - 2 矩形窗函数设计线性相位FIR滤波器.jpeg",
-    "dsp/窗函数_综合对比分析.png",
     "dsp/3_量化噪声(3bit).wav",
     "dsp/2_低采样率(混叠).wav",
     "dsp/3.离散傅里叶变换的快速算法FFT.md",
