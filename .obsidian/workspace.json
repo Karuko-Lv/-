@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsp/IIR.md",
+                "file": "dsp/数字滤波器的结构及实现.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IIR"
+              "title": "数字滤波器的结构及实现"
             }
           },
           {
@@ -272,7 +272,7 @@
   "active": "bf29fde3e00011b1",
   "lastOpenFiles": [
     "未命名 6.md",
-    "dsp/IIR.md",
+    "dsp/数字滤波器的结构及实现.md",
     "线性相位移位对比.md",
     "未命名 7.md",
     "未命名 8.md",
