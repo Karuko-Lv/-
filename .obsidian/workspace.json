@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sx/🌲7.反常积分和无穷级数（待）.md",
+                "file": "sx/🌲6.微分方程及其应用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌲7.反常积分和无穷级数（待）"
+              "title": "🌲6.微分方程及其应用"
             }
           },
           {
@@ -258,8 +258,8 @@
   },
   "active": "7394583307f5e93e",
   "lastOpenFiles": [
-    "sx/🌲1.函数（数列）极限和连续做题必记.md",
     "sx/🌲7.反常积分和无穷级数（待）.md",
+    "sx/🌲1.函数（数列）极限和连续做题必记.md",
     "sx/🌲4.多元函数微分学及其应用.md",
     "sx/🧵6.【‼️】线性方程组.md",
     "sx/🧵4.特征值和特征向量.md",
