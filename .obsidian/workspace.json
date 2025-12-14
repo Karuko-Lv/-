@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsp/2.离散傅里叶变换 (DFT).md",
+                "file": "dsp/1. 离散序列与系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.离散傅里叶变换 (DFT)"
+              "title": "1. 离散序列与系统"
             }
           }
         ],
@@ -303,13 +303,13 @@
   },
   "active": "91c095f303167111",
   "lastOpenFiles": [
+    "dsp/3.离散傅里叶变换的快速算法FFT.md",
     "dsp/1. 离散序列与系统.md",
+    "dsp/2.离散傅里叶变换 (DFT).md",
     "dsp/5.FIR 数字滤波器设计.md",
     "dsp/4.IIR数字滤波器的设计.md",
-    "dsp/2.离散傅里叶变换 (DFT).md",
     "dsp/1_原始高音质.wav",
     "dsp/6. 数字滤波器的结构及实现.md",
-    "dsp/3.离散傅里叶变换的快速算法FFT.md",
     "sx/📈2.随机变量及其分布及数字特征.md",
     "sx/🌟泰勒展开式及形式展开式.md",
     "sx/🌟常见非基本积分公式大全.md",
