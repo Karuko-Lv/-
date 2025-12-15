@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -262,10 +262,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "91c095f303167111",
+  "active": "c37c251dd46cecdf",
   "lastOpenFiles": [
-    "dsp/🌟🌟一些题型.md",
     "dsp/🌟🌟z变换.md",
+    "dsp/🌟🌟一些题型.md",
     "dsp/1. 离散序列与系统.md",
     "dsp/2.离散傅里叶变换 (DFT).md",
     "dsp/6. 数字滤波器的结构及实现.md",
