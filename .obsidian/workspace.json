@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsp/🌟👍差分方程解法详解与真题实战.md",
+                "file": "dsp/🌟🌟🌟真题题型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌟👍差分方程解法详解与真题实战"
+              "title": "🌟🌟🌟真题题型"
             }
           },
           {
@@ -276,21 +276,21 @@
   },
   "active": "c37c251dd46cecdf",
   "lastOpenFiles": [
+    "dsp/🌟🌟 答案2019-12.md",
+    "dsp/6. 数字滤波器的结构及实现.md",
+    "dsp/🌟👍差分方程解法详解与真题实战.md",
     "dsp/🌟🌟z变换.md",
     "dsp/🌟🌟一些题型.md",
     "dsp/🌟🌟🌟真题题型.md",
-    "dsp/🌟👍差分方程解法详解与真题实战.md",
     "dsp/🌟四种FIR对比【背✅】.md",
     "dsp/🌟【拓】设计最后为什么要系统函数.md",
     "dsp/最小采样频率 ($f_s$) 与 最小采样点数 ($N$) 的关系解析.md",
     "dsp/2.离散傅里叶变换 (DFT).md",
     "dsp/1. 离散序列与系统.md",
     "dsp/1_原始高音质.wav",
-    "dsp/🌟🌟 答案2019-12.md",
     "dsp/3.离散傅里叶变换的快速算法FFT.md",
     "dsp/4.IIR数字滤波器的设计.md",
     "dsp/5.FIR 数字滤波器设计.md",
-    "dsp/6. 数字滤波器的结构及实现.md",
     "837生物信号处理真题2017——2024.jpeg",
     "dsp/3_量化噪声(3bit).wav",
     "sx/📈2.随机变量及其分布及数字特征.md",
