@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsp/1. 离散序列与系统.md",
+                "file": "dsp/2.离散傅里叶变换 (DFT).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. 离散序列与系统"
+              "title": "2.离散傅里叶变换 (DFT)"
             }
           },
           {
@@ -276,8 +276,8 @@
   },
   "active": "c37c251dd46cecdf",
   "lastOpenFiles": [
-    "dsp/复数等比级数收敛充要条件证明.md",
     "dsp/1. 离散序列与系统.md",
+    "dsp/复数等比级数收敛充要条件证明.md",
     "dsp/2.离散傅里叶变换 (DFT).md",
     "dsp/4.IIR数字滤波器的设计.md",
     "dsp/5.FIR 数字滤波器设计.md",
