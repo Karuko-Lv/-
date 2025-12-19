@@ -17,15 +17,6 @@
       "key": "G"
     }
   ],
-  "highlightr-plugin:Red": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "R"
-    }
-  ],
   "editor:toggle-inline-math": [
     {
       "modifiers": [
@@ -57,6 +48,14 @@
         "Alt"
       ],
       "key": "C"
+    }
+  ],
+  "highlightr-plugin:Red": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
     }
   ]
 }
