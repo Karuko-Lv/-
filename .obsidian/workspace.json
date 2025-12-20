@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sx/🌟常见非基本积分公式大全.md",
+                "file": "sx/🌟常见分布及其数字特征速查表.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌟常见非基本积分公式大全"
+              "title": "🌟常见分布及其数字特征速查表"
             }
           }
         ],
@@ -306,10 +306,10 @@
   },
   "active": "0e95c7f31de29192",
   "lastOpenFiles": [
+    "sx/🌟常见非基本积分公式大全.md",
     "sx/🌟常见函数求导公式大全.md",
     "sx/🌲6.微分方程及其应用.md",
     "sx/🌲空间解析几何.md",
-    "sx/🌟常见非基本积分公式大全.md",
     "sx/🌟常见分布及其数字特征速查表.md",
     "sx/🌟0的等价无穷小.md",
     "sx/🌟 🌟重要函数关系图像.md",
