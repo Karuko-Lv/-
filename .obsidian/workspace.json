@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sx/🌟基本积分公式大全.md",
+                "file": "dsp/5.FIR 数字滤波器设计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌟基本积分公式大全"
+              "title": "5.FIR 数字滤波器设计"
             }
           }
         ],
@@ -306,6 +306,10 @@
   },
   "active": "0e95c7f31de29192",
   "lastOpenFiles": [
+    "dsp/4.IIR数字滤波器的设计.md",
+    "dsp/5.FIR 数字滤波器设计.md",
+    "dsp/✅FIR设计.md",
+    "sx/🌟基本积分公式大全.md",
     "sx/🌟常见函数求导公式大全.md",
     "sx/🌟常见分布及其数字特征速查表.md",
     "sx/🌟常见非基本积分公式大全.md",
@@ -329,10 +333,6 @@
     "sx/📈1.随机事件与概率.md",
     "sx/🌲5.多元函数积分学及其应用.md",
     "sx/🌲7.反常积分和无穷级数（待）.md",
-    "sx/🌟泰勒展开式及形式展开式.md",
-    "sx/🌟基本积分公式大全.md",
-    "dsp/✅窗函数.md",
-    "dsp/4.IIR数字滤波器的设计.md",
     "截屏2025-12-03 16.47.24.png",
     "837生物信号处理真题2017——2024.jpeg",
     "dsp/1_原始高音质.wav",
