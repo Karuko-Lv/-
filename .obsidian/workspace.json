@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sz/1..md",
+                "file": "kj/富士康 Foxconn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1."
+              "title": "富士康 Foxconn"
             }
           }
         ],
@@ -306,8 +306,10 @@
   },
   "active": "0e95c7f31de29192",
   "lastOpenFiles": [
-    "jj/1.通货膨胀Inflation和通货紧缩Deflation.md",
     "sz/1..md",
+    "kj/富士康 Foxconn.md",
+    "kj",
+    "jj/1.通货膨胀Inflation和通货紧缩Deflation.md",
     "sz",
     "dsp/5.FIR 数字滤波器设计.md",
     "jj",
@@ -334,7 +336,6 @@
     "dsp/✅IIR设计.md",
     "dsp/🌟🌟 答案2019-12.md",
     "dsp/🌟【拓】设计最后为什么要系统函数.md",
-    "sx/📈1.随机事件与概率.md",
     "截屏2025-12-03 16.47.24.png",
     "837生物信号处理真题2017——2024.jpeg",
     "dsp/1_原始高音质.wav",
@@ -351,7 +352,6 @@
     "IMG_FD9952825587-1.jpeg",
     "IMG_D7411A9B3EB0-1 1.jpeg",
     "IMG_D7411A9B3EB0-1.jpeg",
-    "dsp/2_低采样率(混叠).wav",
     "未命名.canvas"
   ]
 }
