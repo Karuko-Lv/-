@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zz/26考研政治一页纸：马原.md",
+                "file": "dp/残差连接、层归一化、前馈网络.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26考研政治一页纸：马原"
+              "title": "残差连接、层归一化、前馈网络"
             }
           },
           {
@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsp/🌟🌟z变换.md",
+                "file": "dp/残差连接、层归一化、前馈网络.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌟🌟z变换"
+              "title": "残差连接、层归一化、前馈网络"
             }
           },
           {
@@ -111,16 +111,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dp/残差连接、层归一化、**前馈网络.md",
+                "file": "tz/年化率.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "残差连接、层归一化、**前馈网络"
+              "title": "年化率"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -304,13 +304,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e95c7f31de29192",
+  "active": "5adbd0001576fb81",
   "lastOpenFiles": [
+    "zz/26考研政治一页纸：马原.md",
+    "dp/残差连接、层归一化、前馈网络.md",
+    "dsp/🌟🌟z变换.md",
+    "tz/年化率.md",
+    "tz",
     "Gemini_Generated_Image_ueftlyueftlyueft (2).png",
     "Gemini_Generated_Image_ueftlyueftlyueft (1).png",
     "Gemini_Generated_Image_ueftlyueftlyueft.png",
     "rj/2026-1-5 周一.md",
-    "dp/残差连接、层归一化、**前馈网络.md",
     "dp",
     "kj/富士康 Foxconn.md",
     "rj",
@@ -335,23 +339,19 @@
     "sx/🌟0的等价无穷小.md",
     "sx/🌟 🌟重要函数关系图像.md",
     "zz/史纲知识点手册.md",
-    "zz/26考研政治一页纸：马原.md",
     "未命名 7.md",
     "zz",
     "dsp/🌟🌟🌟真题题型.md",
-    "dsp/✅✅IIR滤波器设计考点与标准解题模板.md",
     "截屏2025-12-03 16.47.24.png",
     "837生物信号处理真题2017——2024.jpeg",
     "dsp/1_原始高音质.wav",
     "dsp/3_量化噪声(3bit).wav",
     "未命名 3.base",
-    "未命名 2.base",
     "截屏2025-12-10 21.46.55.png",
     "截屏2025-12-10 21.46.30.png",
     "dsp/线性谱_综合对比.png",
     "Gemini_Generated_Image_izyks1izyks1izyk.png",
     "Code_Generated_Image (4).png",
-    "IMG_FD9952825587-1.jpeg",
     "未命名.canvas"
   ]
 }
