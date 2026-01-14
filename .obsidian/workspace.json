@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dp/残差连接.md",
+                "file": "dp/残差连接、层归一化、**前馈网络.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "残差连接"
+              "title": "残差连接、层归一化、**前馈网络"
             }
           }
         ],
@@ -306,9 +306,11 @@
   },
   "active": "0e95c7f31de29192",
   "lastOpenFiles": [
+    "Gemini_Generated_Image_ueftlyueftlyueft (2).png",
+    "Gemini_Generated_Image_ueftlyueftlyueft (1).png",
     "Gemini_Generated_Image_ueftlyueftlyueft.png",
     "rj/2026-1-5 周一.md",
-    "dp/残差连接.md",
+    "dp/残差连接、层归一化、**前馈网络.md",
     "dp",
     "kj/富士康 Foxconn.md",
     "rj",
@@ -350,8 +352,6 @@
     "Gemini_Generated_Image_izyks1izyks1izyk.png",
     "Code_Generated_Image (4).png",
     "IMG_FD9952825587-1.jpeg",
-    "IMG_D7411A9B3EB0-1 1.jpeg",
-    "IMG_D7411A9B3EB0-1.jpeg",
     "未命名.canvas"
   ]
 }
