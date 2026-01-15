@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "2bbb02f7ff28dc47",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.4"
+            }
+          },
+          {
             "id": "06a843c42cce88ce",
             "type": "leaf",
             "state": {
@@ -120,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -295,7 +307,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -305,7 +317,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5adbd0001576fb81",
+  "active": "2bbb02f7ff28dc47",
   "lastOpenFiles": [
     "dp/残差连接、层归一化、前馈网络.md",
     "dp/Transformer.md",
