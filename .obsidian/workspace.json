@@ -53,12 +53,12 @@
             "id": "2bbb02f7ff28dc47",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "image",
               "state": {
-                "currentVersion": "1.11.4"
+                "file": "3.1 FFT概述.jpeg"
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.4"
+              "icon": "lucide-image",
+              "title": "3.1 FFT概述"
             }
           },
           {
@@ -316,8 +316,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd29c57c5f4070df",
+  "active": "2bbb02f7ff28dc47",
   "lastOpenFiles": [
+    "🌟5.2 窗函数法设计线性相位FIR数字滤波器 - 4 窗函数法设计线性相位FIR滤波器举例.jpeg",
     "dp/软件专利申请书标准框架详解.md",
     "dp/残差连接、层归一化、前馈网络.md",
     "dp/Transformer.md",
@@ -359,7 +360,6 @@
     "sx/🌲空间解析几何.md",
     "sx/🌟0的等价无穷小.md",
     "sx/🌟 🌟重要函数关系图像.md",
-    "zz/史纲知识点手册.md",
     "zz",
     "dsp/1_原始高音质.wav",
     "dsp/3_量化噪声(3bit).wav",
