@@ -53,12 +53,14 @@
             "id": "2bbb02f7ff28dc47",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "3.1 FFT概述.jpeg"
+                "file": "dp/Transformer.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "3.1 FFT概述"
+              "icon": "lucide-file",
+              "title": "Transformer"
             }
           },
           {
@@ -204,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5024719238281
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5bc5633bbbb3025a",
@@ -318,6 +321,7 @@
   },
   "active": "2bbb02f7ff28dc47",
   "lastOpenFiles": [
+    "3.1 FFT概述.jpeg",
     "🌟5.2 窗函数法设计线性相位FIR数字滤波器 - 4 窗函数法设计线性相位FIR滤波器举例.jpeg",
     "dp/软件专利申请书标准框架详解.md",
     "dp/残差连接、层归一化、前馈网络.md",
@@ -335,7 +339,6 @@
     "tz/年化率.md",
     "tz",
     "Gemini_Generated_Image_ueftlyueftlyueft (2).png",
-    "Gemini_Generated_Image_ueftlyueftlyueft (1).png",
     "rj/2026-1-5 周一.md",
     "dp",
     "kj/富士康 Foxconn.md",
