@@ -42,3 +42,7 @@ $d$ 可以人为去设置
 transformer 模型中位置编码是用三角函数构建的
 $$\begin{aligned}&PE(pos,2i)=\sin\left(\frac{pos}{10000^{\frac{2i}{d}}}\right)\quad PE(pos,2i+1)=\cos\left(\frac{pos}{10000^{\frac{2i}{d}}}\right)\\&\text{其中:}\\&d{:}\text{词嵌入矩阵的大小}\quad i=0,1,\ldots,\frac{d}{2}-1\quad pos：\text{当前token在序列中的第几个位置}\end{aligned}$$
 PE 是位置编码的向量数值（是 position embedding 的缩写），是用三角函数构建的，三角函数的数值是由pos、i、d 的这三个参数的数值控制的
+一个词嵌入向量的维度大小应该是 $d \times v$ 的大小，$v$ 是整个词表的大小（即多少token 的词），d 是每个token 这样的向量的维度的大小
+![[截屏2026-01-19 10.12.33.png|200]]
+而词向量信息输到模型中需要配对应的位置编码信息，位置编码也是 $d \times 1$ 的大小以便和词向量相加，i 可以计算对应向量位置编码的数值，奇数位用cos 计算，偶数位用sin 计算
+🧚‍♀️
