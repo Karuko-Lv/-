@@ -40,3 +40,5 @@ $d$ 可以人为去设置
 
 ##### 位置编码
 transformer 模型中位置编码是用三角函数构建的
+$$\begin{aligned}&PE(pos,2i)=\sin\left(\frac{pos}{10000^{\frac{2i}{d}}}\right)\quad PE(pos,2i+1)=\cos\left(\frac{pos}{10000^{\frac{2i}{d}}}\right)\\&\text{其中:}\\&d{:}\text{词嵌入矩阵的大小}\quad i=0,1,\ldots,\frac{d}{2}-1\quad pos：\text{当前token在序列中的第几个位置}\end{aligned}$$
+PE 是位置编码的向量数值（是 position embedding 的缩写），是用三角函数构建的，三角函数的数值是由pos、i、d 的这三个参数的数值控制的
