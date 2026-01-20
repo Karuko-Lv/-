@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dp/梯度下降算法.md",
+                "file": "dp/反向传播.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "梯度下降算法"
+              "title": "反向传播"
             }
           },
           {
@@ -320,11 +320,12 @@
   },
   "active": "2bbb02f7ff28dc47",
   "lastOpenFiles": [
+    "dp/常见的loss函数.md",
+    "dp/反向传播.md",
+    "dp/梯度下降算法.md",
     "Pasted image 20260120154345.png",
     "dp/Loss最小值.md",
     "dp/神经网络的结构.md",
-    "dp/反向传播.md",
-    "dp/梯度下降算法.md",
     "截屏2026-01-20 15.20.31.png",
     "截屏2026-01-20 15.12.56.png",
     "截屏2026-01-20 15.04.28.png",
@@ -335,7 +336,6 @@
     "截屏2026-01-20 14.04.54.png",
     "截屏2026-01-20 14.04.39.png",
     "dp/调参.md",
-    "截屏2026-01-20 10.31.32.png",
     "dp/MLP的激活.md",
     "dp/Transformer.md",
     "yy/ys/学习计划.md",
