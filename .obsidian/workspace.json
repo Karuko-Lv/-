@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dp/反向传播.md",
+                "file": "dp/b和w的更新.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "反向传播"
+              "title": "b和w的更新"
             }
           },
           {
@@ -320,8 +320,8 @@
   },
   "active": "2bbb02f7ff28dc47",
   "lastOpenFiles": [
-    "dp/b和w的更新.md",
     "dp/反向传播.md",
+    "dp/b和w的更新.md",
     "截屏2026-01-20 17.15.47.png",
     "截屏2026-01-20 17.15.26.png",
     "截屏2026-01-20 17.01.05.png",
