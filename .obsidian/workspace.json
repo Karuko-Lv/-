@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dp/b和w的更新.md",
+                "file": "zz/API_DOCUMENTATION.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "b和w的更新"
+              "title": "API_DOCUMENTATION"
             }
           },
           {
@@ -318,10 +318,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2bbb02f7ff28dc47",
+  "active": "bd29c57c5f4070df",
   "lastOpenFiles": [
-    "dp/反向传播.md",
     "dp/b和w的更新.md",
+    "zz/API_DOCUMENTATION.md",
+    "dp/反向传播.md",
     "截屏2026-01-20 17.15.47.png",
     "截屏2026-01-20 17.15.26.png",
     "截屏2026-01-20 17.01.05.png",
@@ -362,7 +363,6 @@
     "sx/🌟基本积分公式大全.md",
     "sx/🌟常见函数求导公式大全.md",
     "sx/🌟常见分布及其数字特征速查表.md",
-    "sx/🌟常见非基本积分公式大全.md",
     "zz",
     "dsp/1_原始高音质.wav",
     "dsp/3_量化噪声(3bit).wav",
