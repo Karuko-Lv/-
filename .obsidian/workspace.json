@@ -132,9 +132,21 @@
               "icon": "lucide-file",
               "title": "年化率"
             }
+          },
+          {
+            "id": "36b4fccd1252156d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.5"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -318,7 +330,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd29c57c5f4070df",
+  "active": "36b4fccd1252156d",
   "lastOpenFiles": [
     "dp/b和w的更新.md",
     "zz/API_DOCUMENTATION.md",
