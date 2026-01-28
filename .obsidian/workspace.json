@@ -123,12 +123,14 @@
             "id": "36b4fccd1252156d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "zz/API_DOCUMENTATION.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.5"
+              "icon": "lucide-file",
+              "title": "API_DOCUMENTATION"
             }
           }
         ],
@@ -316,7 +318,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd29c57c5f4070df",
+  "active": "36b4fccd1252156d",
   "lastOpenFiles": [
     "zz/API_DOCUMENTATION.md",
     "zz/ .md",
