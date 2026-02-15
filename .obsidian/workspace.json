@@ -137,12 +137,14 @@
             "id": "47f8145aa1a5a953",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "dp/常见的loss函数.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.7"
+              "icon": "lucide-file",
+              "title": "常见的loss函数"
             }
           }
         ],
@@ -332,6 +334,7 @@
   },
   "active": "47f8145aa1a5a953",
   "lastOpenFiles": [
+    "rj/2026-1-5 周一.md",
     "zz/API_DOCUMENTATION.md",
     "zz/ .md",
     "dp/b和w的更新.md",
@@ -361,7 +364,6 @@
     "dsp/🌟🌟z变换.md",
     "tz/年化率.md",
     "tz",
-    "rj/2026-1-5 周一.md",
     "dp",
     "kj/富士康 Foxconn.md",
     "rj",
