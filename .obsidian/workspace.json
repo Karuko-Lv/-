@@ -132,9 +132,21 @@
               "icon": "lucide-file",
               "title": "Loss最小值"
             }
+          },
+          {
+            "id": "47f8145aa1a5a953",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.7"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -318,7 +330,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "36b4fccd1252156d",
+  "active": "47f8145aa1a5a953",
   "lastOpenFiles": [
     "zz/API_DOCUMENTATION.md",
     "zz/ .md",
