@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "qd/未命名.md",
+                "file": "qd/Vite等打包工具.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Vite等打包工具"
             }
           }
         ],
@@ -335,7 +335,7 @@
   "active": "47f8145aa1a5a953",
   "lastOpenFiles": [
     "qd/前端杂七杂八的知识.md",
-    "qd/未命名.md",
+    "qd/Vite等打包工具.md",
     "qd/Git配置指南.md",
     "qd/辐射监测站.md",
     "dp/常见的loss函数.md",
