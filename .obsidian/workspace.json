@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "qd/Git配置指南.md",
+                "file": "qd/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git配置指南"
+              "title": "未命名"
             }
           }
         ],
@@ -334,9 +334,10 @@
   },
   "active": "47f8145aa1a5a953",
   "lastOpenFiles": [
-    "qd/辐射监测站.md",
-    "qd/Git配置指南.md",
     "qd/前端杂七杂八的知识.md",
+    "qd/未命名.md",
+    "qd/Git配置指南.md",
+    "qd/辐射监测站.md",
     "dp/常见的loss函数.md",
     "qd",
     "rj/2026-1-5 周一.md",
@@ -377,7 +378,6 @@
     "sz",
     "dsp/5.FIR 数字滤波器设计.md",
     "jj",
-    "dsp/4.IIR数字滤波器的设计.md",
     "zz",
     "dsp/1_原始高音质.wav",
     "未命名.canvas"
