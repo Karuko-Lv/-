@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "qd/Vite等打包工具.md",
+                "file": "qd/岗位要求.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vite等打包工具"
+              "title": "岗位要求"
             }
           }
         ],
@@ -334,8 +334,11 @@
   },
   "active": "47f8145aa1a5a953",
   "lastOpenFiles": [
-    "qd/前端杂七杂八的知识.md",
+    "截屏2026-03-02 14.25.33.png",
+    "Pasted image 20260302142326.png",
     "qd/Vite等打包工具.md",
+    "qd/岗位要求.md",
+    "qd/前端杂七杂八的知识.md",
     "qd/Git配置指南.md",
     "qd/辐射监测站.md",
     "dp/常见的loss函数.md",
@@ -357,7 +360,6 @@
     "截屏2026-01-20 15.20.31.png",
     "截屏2026-01-20 15.12.56.png",
     "截屏2026-01-20 15.04.28.png",
-    "截屏2026-01-20 14.49.04.png",
     "dp/调参.md",
     "dp/MLP的激活.md",
     "dp/Transformer.md",
@@ -374,9 +376,7 @@
     "rj",
     "sz/1..md",
     "kj",
-    "jj/1.通货膨胀Inflation和通货紧缩Deflation.md",
     "sz",
-    "dsp/5.FIR 数字滤波器设计.md",
     "jj",
     "zz",
     "dsp/1_原始高音质.wav",
