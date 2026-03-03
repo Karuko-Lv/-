@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "qd/岗位要求.md",
+                "file": "qd/前端杂七杂八的知识.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "岗位要求"
+              "title": "前端杂七杂八的知识"
             }
           }
         ],
@@ -334,10 +334,10 @@
   },
   "active": "47f8145aa1a5a953",
   "lastOpenFiles": [
+    "qd/岗位要求.md",
     "截屏2026-03-02 14.25.33.png",
     "Pasted image 20260302142326.png",
     "qd/Vite等打包工具.md",
-    "qd/岗位要求.md",
     "qd/前端杂七杂八的知识.md",
     "qd/Git配置指南.md",
     "qd/辐射监测站.md",
@@ -359,7 +359,6 @@
     "dp/Loss最小值.md",
     "截屏2026-01-20 15.20.31.png",
     "截屏2026-01-20 15.12.56.png",
-    "截屏2026-01-20 15.04.28.png",
     "dp/调参.md",
     "dp/MLP的激活.md",
     "dp/Transformer.md",
