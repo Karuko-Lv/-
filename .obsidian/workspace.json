@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "qd/前端杂七杂八的知识.md",
+                "file": "未命名 7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "前端杂七杂八的知识"
+              "title": "未命名 7"
             }
           }
         ],
@@ -334,11 +334,12 @@
   },
   "active": "47f8145aa1a5a953",
   "lastOpenFiles": [
+    "未命名 8.md",
+    "qd/前端杂七杂八的知识.md",
     "qd/岗位要求.md",
     "截屏2026-03-02 14.25.33.png",
     "Pasted image 20260302142326.png",
     "qd/Vite等打包工具.md",
-    "qd/前端杂七杂八的知识.md",
     "qd/Git配置指南.md",
     "qd/辐射监测站.md",
     "dp/常见的loss函数.md",
