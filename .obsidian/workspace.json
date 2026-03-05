@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法/C++算法必备框架.md",
+                "file": "rj/2027-3-5 周四.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C++算法必备框架"
+              "title": "2027-3-5 周四"
             }
           }
         ],
@@ -334,8 +334,9 @@
   },
   "active": "47f8145aa1a5a953",
   "lastOpenFiles": [
-    "未命名 7.md",
     "算法/C++算法必备框架.md",
+    "未命名",
+    "未命名 7.md",
     "算法",
     "未命名 8.md",
     "qd/前端杂七杂八的知识.md",
@@ -347,7 +348,7 @@
     "qd/辐射监测站.md",
     "dp/常见的loss函数.md",
     "qd",
-    "rj/2026-1-5 周一.md",
+    "rj/2027-3-5 周四.md",
     "zz/API_DOCUMENTATION.md",
     "zz/ .md",
     "dp/b和w的更新.md",
@@ -372,14 +373,12 @@
     "dp/残差连接、层归一化、前馈网络.md",
     "zz/26考研政治一页纸：马原.md",
     "dsp/🌟🌟z变换.md",
-    "tz/年化率.md",
     "tz",
     "dp",
     "rj",
     "kj",
     "sz",
     "jj",
-    "zz",
     "未命名.canvas"
   ]
 }
