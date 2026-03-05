@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 7.md",
+                "file": "算法/C++算法必备框架.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名 7"
+              "title": "C++算法必备框架"
             }
           }
         ],
@@ -334,6 +334,9 @@
   },
   "active": "47f8145aa1a5a953",
   "lastOpenFiles": [
+    "未命名 7.md",
+    "算法/C++算法必备框架.md",
+    "算法",
     "未命名 8.md",
     "qd/前端杂七杂八的知识.md",
     "qd/岗位要求.md",
@@ -372,14 +375,11 @@
     "tz/年化率.md",
     "tz",
     "dp",
-    "kj/富士康 Foxconn.md",
     "rj",
-    "sz/1..md",
     "kj",
     "sz",
     "jj",
     "zz",
-    "dsp/1_原始高音质.wav",
     "未命名.canvas"
   ]
 }
