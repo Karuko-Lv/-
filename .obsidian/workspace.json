@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "qd/前端杂七杂八的知识.md",
+                "file": "算法/C++算法必备框架.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "前端杂七杂八的知识"
+              "title": "C++算法必备框架"
             }
           }
         ],
@@ -334,6 +334,7 @@
   },
   "active": "47f8145aa1a5a953",
   "lastOpenFiles": [
+    "qd/前端杂七杂八的知识.md",
     "qd/辐射监测站.md",
     "rj/2027-3-6 周五 Day1.md",
     "rj/2027-3-5 周四.md",
@@ -342,7 +343,6 @@
     "未命名 7.md",
     "算法",
     "未命名 8.md",
-    "qd/前端杂七杂八的知识.md",
     "qd/岗位要求.md",
     "截屏2026-03-02 14.25.33.png",
     "Pasted image 20260302142326.png",
