@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsp/✅✅IIR滤波器设计考点与标准解题模板.md",
-                "mode": "source",
+                "file": "rj/2027-3-7 周六 Day2.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "✅✅IIR滤波器设计考点与标准解题模板"
+              "title": "2027-3-7 周六 Day2"
             }
           },
           {
@@ -140,7 +140,7 @@
               "type": "markdown",
               "state": {
                 "file": "rj/2027-3-7 周六 Day2.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -311,12 +311,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "02290fad956af204",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {},
+              "icon": "command-glyph",
+              "title": "Execution Runtimes"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 623.5,
+    "width": 329.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -331,11 +342,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd29c57c5f4070df",
+  "active": "06a843c42cce88ce",
   "lastOpenFiles": [
+    "dsp/✅✅IIR滤波器设计考点与标准解题模板.md",
+    "rj/2027-3-7 周六 Day2.md",
     "未命名 4.base",
     "sx/【计划】.md",
-    "rj/2027-3-7 周六 Day2.md",
     "未命名 9.md",
     "未命名 8.md",
     "rj/2027-3-6 周五 Day1.md",

@@ -57,5 +57,13 @@
       ],
       "key": "Q"
     }
+  ],
+  "execute-code:code-execute-open-manage-executors": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "R"
+    }
   ]
 }
