@@ -96,7 +96,7 @@
   "cppRunner": "cling",
   "cppFileExtension": "cpp",
   "cppInject": "",
-  "cppArgs": "",
+  "cppArgs": "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -I/usr/include",
   "cppUseMain": false,
   "clingPath": "/opt/homebrew/bin/cling",
   "clingArgs": "",

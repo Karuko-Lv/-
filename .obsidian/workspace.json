@@ -56,7 +56,7 @@
               "type": "markdown",
               "state": {
                 "file": "rj/2027-3-7 周六 Day2.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -313,7 +313,7 @@
             }
           },
           {
-            "id": "02290fad956af204",
+            "id": "befe0af3a7e5f519",
             "type": "leaf",
             "state": {
               "type": "code-execute-manage-executors",
@@ -327,7 +327,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
