@@ -64,6 +64,18 @@
             }
           },
           {
+            "id": "0fd451067424e601",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.12.4"
+            }
+          },
+          {
             "id": "2eebb8df9e910389",
             "type": "leaf",
             "state": {
@@ -148,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -342,7 +354,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06a843c42cce88ce",
+  "active": "0fd451067424e601",
   "lastOpenFiles": [
     "rj/2027-3-7 周六 Day2.md",
     "rj/2027-3-8 周日 Day3.md",
