@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rj/2027-3-9 周一 Day4.md",
+                "file": "qd/项目API文档.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2027-3-9 周一 Day4"
+              "title": "项目API文档"
             }
           },
           {
@@ -358,6 +358,8 @@
   },
   "active": "0fd451067424e601",
   "lastOpenFiles": [
+    "未命名 5.base",
+    "qd/项目API文档.md",
     "rj/2027-3-9 周一 Day4.md",
     "rj/2027-3-7 周六 Day2.md",
     "rj/2027-3-8 周日 Day3.md",
@@ -396,14 +398,11 @@
     "dp/Loss最小值.md",
     "截屏2026-01-20 15.20.31.png",
     "截屏2026-01-20 15.12.56.png",
-    "dp/调参.md",
-    "dp/MLP的激活.md",
     "yy/ys",
     "tz",
     "dp",
     "rj",
     "kj",
-    "sz",
     "未命名.canvas"
   ]
 }
