@@ -67,12 +67,14 @@
             "id": "0fd451067424e601",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "rj/2027-3-9 周一 Day4.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.12.4"
+              "icon": "lucide-file",
+              "title": "2027-3-9 周一 Day4"
             }
           },
           {
@@ -356,6 +358,7 @@
   },
   "active": "0fd451067424e601",
   "lastOpenFiles": [
+    "rj/2027-3-9 周一 Day4.md",
     "rj/2027-3-7 周六 Day2.md",
     "rj/2027-3-8 周日 Day3.md",
     "dsp/✅✅IIR滤波器设计考点与标准解题模板.md",
@@ -395,7 +398,6 @@
     "截屏2026-01-20 15.12.56.png",
     "dp/调参.md",
     "dp/MLP的激活.md",
-    "dp/Transformer.md",
     "yy/ys",
     "tz",
     "dp",
