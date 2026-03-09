@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rj/2027-3-9 周一 Day4.md",
+                "file": "qd/能谱图.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2027-3-9 周一 Day4"
+              "title": "能谱图"
             }
           },
           {
@@ -358,8 +358,9 @@
   },
   "active": "0fd451067424e601",
   "lastOpenFiles": [
-    "rj/2027-3-8 周日 Day3.md",
     "rj/2027-3-9 周一 Day4.md",
+    "qd/能谱图.md",
+    "rj/2027-3-8 周日 Day3.md",
     "qd/项目API文档.md",
     "未命名 5.base",
     "rj/2027-3-7 周六 Day2.md",
