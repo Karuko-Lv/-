@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rj/2027-3-9 周一 Day4.md",
+                "file": "rj/2026-3-10 周二 Day5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2027-3-9 周一 Day4"
+              "title": "2026-3-10 周二 Day5"
             }
           }
         ],
@@ -358,9 +358,12 @@
   },
   "active": "47f8145aa1a5a953",
   "lastOpenFiles": [
-    "rj/2027-3-8 周日 Day3.md",
-    "rj/2027-3-9 周一 Day4.md",
-    "rj/2027-3-7 周六 Day2.md",
+    "rj/2026-3-9 周一 Day4.md",
+    "rj/2026-3-8 周日 Day3.md",
+    "rj/2026-3-7 周六 Day2.md",
+    "rj/2026-3-6 周五 Day1.md",
+    "rj/2026-3-5 周四.md",
+    "rj/2026-3-10 周二 Day5.md",
     "qd/能谱图.md",
     "qd/项目API文档.md",
     "未命名 5.base",
@@ -369,12 +372,10 @@
     "sx/【计划】.md",
     "未命名 9.md",
     "未命名 8.md",
-    "rj/2027-3-6 周五 Day1.md",
     "qd/前端杂七杂八的知识.md",
     "qd/Vite等打包工具.md",
     "算法/C++算法必备框架.md",
     "qd/辐射监测站.md",
-    "rj/2027-3-5 周四.md",
     "未命名",
     "未命名 7.md",
     "算法",
@@ -396,7 +397,6 @@
     "dp/神经网络的结构.md",
     "dp/梯度下降算法.md",
     "Pasted image 20260120154345.png",
-    "dp/Loss最小值.md",
     "截屏2026-01-20 15.20.31.png",
     "截屏2026-01-20 15.12.56.png",
     "yy/ys",
