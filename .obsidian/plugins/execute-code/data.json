@@ -98,7 +98,7 @@
   "cppInject": "",
   "cppArgs": "-resource-dir=/opt/homebrew/opt/llvm/lib/clang/20",
   "cppUseMain": true,
-  "clingPath": "/opt/homebrew/bin/cling",
+  "clingPath": "/opt/homebrew/bin/clean_cling",
   "clingArgs": "",
   "clingStd": "c++17",
   "rustFileExtension": "rs",
