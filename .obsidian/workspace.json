@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ds/2.1 线性表的定义和基本操作.md",
+                "file": "ds/2.2.1 顺序表的定义.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.1 线性表的定义和基本操作"
+              "title": "2.2.1 顺序表的定义"
             }
           },
           {
@@ -358,8 +358,8 @@
   },
   "active": "06a843c42cce88ce",
   "lastOpenFiles": [
-    "ds/2.2.1 顺序表的定义.md",
     "ds/2.1 线性表的定义和基本操作.md",
+    "ds/2.2.1 顺序表的定义.md",
     "截屏2026-03-14 22.36.29.png",
     "截屏2026-03-14 22.35.08.png",
     "截屏2026-03-14 22.32.56.png",
