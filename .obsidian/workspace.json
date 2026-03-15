@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ds/2.2.2 顺序表的插入、删除、查找.md",
+                "file": "ds/2.3.1 单链表的定义.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2.2 顺序表的插入、删除、查找"
+              "title": "2.3.1 单链表的定义"
             }
           },
           {
@@ -233,7 +233,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5bc5633bbbb3025a",
@@ -249,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ds/2.2.2 顺序表的插入、删除、查找.md",
+                "file": "ds/2.3.1 单链表的定义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +260,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "2.2.2 顺序表的插入、删除、查找 的反向链接列表"
+              "title": "2.3.1 单链表的定义 的反向链接列表"
             }
           },
           {
@@ -357,9 +358,9 @@
   },
   "active": "06a843c42cce88ce",
   "lastOpenFiles": [
+    "ds/2.2.2 顺序表的插入、删除、查找.md",
     "ds/2.3.1 单链表的定义.md",
     "截屏2026-03-15 18.22.48.png",
-    "ds/2.2.2 顺序表的插入、删除、查找.md",
     "ds/2.2.1 顺序表的定义.md",
     "ds/2.1 线性表的定义和基本操作.md",
     "截屏2026-03-15 18.22.25.png",
