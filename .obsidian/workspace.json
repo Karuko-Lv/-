@@ -57,7 +57,7 @@
               "state": {
                 "file": "ds/2.2.1 顺序表的定义.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "2.2.1 顺序表的定义"
@@ -249,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsp/1. 离散序列与系统.md",
+                "file": "ds/2.2.1 顺序表的定义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "1. 离散序列与系统 的反向链接列表"
+              "title": "2.2.1 顺序表的定义 的反向链接列表"
             }
           },
           {
@@ -336,8 +336,7 @@
               "title": "Execution Runtimes"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -358,6 +357,9 @@
   },
   "active": "06a843c42cce88ce",
   "lastOpenFiles": [
+    "截屏2026-03-15 09.46.57.png",
+    "Pasted image 20260315094640.png",
+    "Pasted image 20260315093953.png",
     "ds/2.1 线性表的定义和基本操作.md",
     "ds/2.2.1 顺序表的定义.md",
     "截屏2026-03-14 22.36.29.png",
@@ -368,8 +370,6 @@
     "截屏2026-03-14 22.22.48.png",
     "截屏2026-03-14 22.16.57.png",
     "截屏2026-03-14 22.16.30.png",
-    "截屏2026-03-14 22.14.04.png",
-    "截屏2026-03-14 22.12.26.png",
     "ds/1.2.2 算法的时空复杂度.md",
     "ds/2.2.2 顺序表的插入、删除、查找.md",
     "ds/⚔️ 18天数据结构极限速通与刷题计划 (3.14 - 3.31).md",
