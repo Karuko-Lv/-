@@ -5,5 +5,7 @@
   "calendar",
   "fast-text-color",
   "obsidian-git",
-  "execute-code"
+  "execute-code",
+  "templater-obsidian",
+  "obsidian-style-settings"
 ]

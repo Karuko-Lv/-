@@ -1,3 +1,5 @@
 {
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "",
+  "cssTheme": "Pink Topaz",
+  "accentColor": "#f288b2"
 }
