@@ -54,8 +54,7 @@
                   "title": "🌟基本积分公式大全"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           },
           {
             "id": "e3795af1794b6bdd",
@@ -243,13 +242,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sx/🌟基本积分公式大全.md",
+                "file": "sx/🌲1.函数（数列）极限和连续做题必记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🌟基本积分公式大全 的大纲"
+              "title": "🌲1.函数（数列）极限和连续做题必记 的大纲"
             }
           },
           {
@@ -302,10 +301,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0305e05c21a3e096",
+  "active": "b0ee191c912ad2b2",
   "lastOpenFiles": [
-    "sx/🌟泰勒展开式及形式展开式.md",
     "sx/🌟基本积分公式大全.md",
+    "sx/🌟泰勒展开式及形式展开式.md",
     "sx/🌲1.函数（数列）极限和连续做题必记.md",
     "sx/🌟常见函数求导公式大全.md",
     "sx/🌟0的等价无穷小.md",
