@@ -39,8 +39,23 @@
                   "icon": "lucide-file",
                   "title": "🌟泰勒展开式及形式展开式"
                 }
+              },
+              {
+                "id": "0305e05c21a3e096",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "sx/🌟基本积分公式大全.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "🌟基本积分公式大全"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "e3795af1794b6bdd",
@@ -228,13 +243,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sx/🌲1.函数（数列）极限和连续做题必记.md",
+                "file": "sx/🌟泰勒展开式及形式展开式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🌲1.函数（数列）极限和连续做题必记 的大纲"
+              "title": "🌟泰勒展开式及形式展开式 的大纲"
             }
           },
           {
@@ -287,10 +302,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b0ee191c912ad2b2",
+  "active": "26ea45cf4523c628",
   "lastOpenFiles": [
-    "sx/🌟泰勒展开式及形式展开式.md",
+    "sx/🌟基本积分公式大全.md",
     "sx/🌲1.函数（数列）极限和连续做题必记.md",
+    "sx/🌟泰勒展开式及形式展开式.md",
     "sx/🌟常见函数求导公式大全.md",
     "sx/🌟0的等价无穷小.md",
     "数据结构与算法/2.3.2 单链表的插入、删除、查找、建立.md",
@@ -325,7 +341,6 @@
     "sx/🧵🌟🌟🌟错题记录.md",
     "sx/🧵0.线代总和.md",
     "yy/长难句/2026-4-7.md",
-    "sx/🧵1.综合.md",
     "未命名 4.base",
     "未命名 3.base",
     "未命名 2.base",
