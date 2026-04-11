@@ -32,15 +32,16 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "sx/🌟0的等价无穷小.md",
+                    "file": "sx/🌟泰勒展开式及形式展开式.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "🌟0的等价无穷小"
+                  "title": "🌟泰勒展开式及形式展开式"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "e3795af1794b6bdd",
@@ -164,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "5bc5633bbbb3025a",
@@ -229,13 +229,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sx/🌲1.函数（数列）极限和连续做题必记.md",
+                "file": "sx/🌟泰勒展开式及形式展开式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🌲1.函数（数列）极限和连续做题必记 的大纲"
+              "title": "🌟泰勒展开式及形式展开式 的大纲"
             }
           },
           {
@@ -288,7 +288,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b0ee191c912ad2b2",
+  "active": "26ea45cf4523c628",
   "lastOpenFiles": [
     "sx/🌟0的等价无穷小.md",
     "sx/🌲1.函数（数列）极限和连续做题必记.md",
