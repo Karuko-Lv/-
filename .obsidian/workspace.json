@@ -40,8 +40,7 @@
                   "title": "🌟泰勒展开式及形式展开式"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "e3795af1794b6bdd",
@@ -229,13 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sx/🌟泰勒展开式及形式展开式.md",
+                "file": "sx/🌲1.函数（数列）极限和连续做题必记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🌟泰勒展开式及形式展开式 的大纲"
+              "title": "🌲1.函数（数列）极限和连续做题必记 的大纲"
             }
           },
           {
@@ -288,10 +287,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "26ea45cf4523c628",
+  "active": "b0ee191c912ad2b2",
   "lastOpenFiles": [
-    "sx/🌲1.函数（数列）极限和连续做题必记.md",
     "sx/🌟泰勒展开式及形式展开式.md",
+    "sx/🌲1.函数（数列）极限和连续做题必记.md",
     "sx/🌟常见函数求导公式大全.md",
     "sx/🌟0的等价无穷小.md",
     "数据结构与算法/2.3.2 单链表的插入、删除、查找、建立.md",
