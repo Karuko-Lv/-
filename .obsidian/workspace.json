@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构与算法/3.1.2 栈的顺序存储实现.md",
+                "file": "sx/🌟常见函数求导公式大全.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3.1.2 栈的顺序存储实现 的大纲"
+              "title": "🌟常见函数求导公式大全 的大纲"
             }
           },
           {
@@ -284,10 +284,10 @@
       }
     ]
   },
-  "active": "dbb006c6fa41ddef",
+  "active": "f7508a2eacc41221",
   "lastOpenFiles": [
-    "sx/🌟常见函数求导公式大全.md",
     "数据结构与算法/3.1.2 栈的顺序存储实现.md",
+    "sx/🌟常见函数求导公式大全.md",
     "sx/🌟泰勒展开式及形式展开式.md",
     "sx/🌲1.函数（数列）极限和连续做题必记.md",
     "未命名 4.base",
