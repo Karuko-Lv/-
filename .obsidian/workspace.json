@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sx/🌟不等思想.md",
+                "file": "sx/🌲1.函数（数列）极限和连续做题必记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌟不等思想"
+              "title": "🌲1.函数（数列）极限和连续做题必记"
             }
           }
         ],
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sx/🌟不等思想.md",
+                "file": "sx/🌲1.函数（数列）极限和连续做题必记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🌟不等思想 的大纲"
+              "title": "🌲1.函数（数列）极限和连续做题必记 的大纲"
             }
           },
           {
@@ -300,6 +300,7 @@
   },
   "active": "7541d08057ce36b3",
   "lastOpenFiles": [
+    "sx/🌟不等思想.md",
     "sx/【拓】西尔维斯特不等式.md",
     "sx/🌲1.函数（数列）极限和连续做题必记.md",
     "数据结构与算法/3.1.2 栈的顺序存储实现.md",
@@ -337,7 +338,6 @@
     "数据结构与算法/2.3.4 循环链表.md",
     "sx/🧵小拓展.md",
     "sx/🧵🌟🌟🌟错题记录.md",
-    "sx/🧵0.线代总和.md",
     "未命名 3.base",
     "未命名 2.base",
     "yy/长难句",
