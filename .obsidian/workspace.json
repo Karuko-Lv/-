@@ -35,8 +35,7 @@
               "title": "🌟常见函数求导公式大全"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sx/🌟常见函数求导公式大全.md",
+                "file": "sx/🌟泰勒展开式及形式展开式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🌟常见函数求导公式大全 的大纲"
+              "title": "🌟泰勒展开式及形式展开式 的大纲"
             }
           },
           {
@@ -284,10 +283,10 @@
       }
     ]
   },
-  "active": "f7508a2eacc41221",
+  "active": "1f9ba1b7e6d72db9",
   "lastOpenFiles": [
-    "数据结构与算法/3.1.2 栈的顺序存储实现.md",
     "sx/🌟常见函数求导公式大全.md",
+    "数据结构与算法/3.1.2 栈的顺序存储实现.md",
     "sx/🌟泰勒展开式及形式展开式.md",
     "sx/🌲1.函数（数列）极限和连续做题必记.md",
     "未命名 4.base",
