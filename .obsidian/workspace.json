@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构与算法/🌟错题本.md",
+                "file": "sx/🌲1.函数（数列）极限和连续做题必记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🌟错题本 的大纲"
+              "title": "🌲1.函数（数列）极限和连续做题必记 的大纲"
             }
           },
           {
@@ -257,8 +257,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5,
-    "collapsed": true
+    "width": 201.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -345,14 +344,15 @@
       }
     ]
   },
-  "active": "f8442d01d4f777ac",
+  "active": "527ab3a04549bd49",
   "lastOpenFiles": [
     "sx/🌲2.一元微分学及其应用.md",
     "sx/🌲1.函数（数列）极限和连续做题必记.md",
+    "sx/🌟常见函数求导公式大全.md",
+    "数据结构与算法/🌟错题本.md",
     "图片/截屏2026-04-15 18.36.26.png",
     "图片/截屏2026-04-15 18.33.49.png",
     "图片/截屏2026-04-15 18.16.40.png",
-    "数据结构与算法/🌟错题本.md",
     "图片/截屏2026-04-15 18.07.52.png",
     "图片/截屏2026-04-15 18.02.44.png",
     "图片/截屏2026-04-15 18.01.36.png",
@@ -382,7 +382,6 @@
     "数据结构与算法/3.3.2 栈在表达式求值中的应用.md",
     "数据结构与算法/3.3.1 栈在括号匹配中的应用.md",
     "sx/🌟不等思想.md",
-    "sx/【拓】西尔维斯特不等式.md",
     "未命名 4.base",
     "未命名 5.base",
     "未命名 3.base",
