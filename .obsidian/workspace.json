@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -149,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "5bc5633bbbb3025a",
@@ -214,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sx/🌲1.函数（数列）极限和连续做题必记.md",
+                "file": "数据结构与算法/🌟错题本.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🌲1.函数（数列）极限和连续做题必记 的大纲"
+              "title": "🌟错题本 的大纲"
             }
           },
           {
@@ -313,8 +312,9 @@
       }
     ]
   },
-  "active": "60b9bbb97b845345",
+  "active": "f8442d01d4f777ac",
   "lastOpenFiles": [
+    "sx/🌲1.函数（数列）极限和连续做题必记.md",
     "数据结构与算法/3.2.3 队列的链式实现.md",
     "数据结构与算法/3.2.4 双端队列.md",
     "数据结构与算法/3.1.1 栈的基本概念.md",
@@ -322,7 +322,6 @@
     "图片/截屏2026-04-15 15.26.04.png",
     "图片/截屏2026-04-15 15.25.50.png",
     "图片/截屏2026-04-15 15.24.52.png",
-    "sx/🌲1.函数（数列）极限和连续做题必记.md",
     "数据结构与算法/3.1.2 栈的顺序存储实现.md",
     "图片/截屏2026-04-15 15.08.15.png",
     "图片/截屏2026-04-15 15.08.03.png",
