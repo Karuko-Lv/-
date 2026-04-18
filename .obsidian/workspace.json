@@ -228,13 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sx/🌲1.函数（数列）极限和连续做题必记.md",
+                "file": "sx/🌲2.一元微分学及其应用.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🌲1.函数（数列）极限和连续做题必记 的大纲"
+              "title": "🌲2.一元微分学及其应用 的大纲"
             }
           },
           {
@@ -392,10 +392,10 @@
       }
     ]
   },
-  "active": "527ab3a04549bd49",
+  "active": "1b8f28555fd5a712",
   "lastOpenFiles": [
-    "sx/🌲2.一元微分学及其应用.md",
     "sx/🌲1.函数（数列）极限和连续做题必记.md",
+    "sx/🌲2.一元微分学及其应用.md",
     "English/长难句/2026-4-7.md",
     "English/exam",
     "数据结构与算法/3.4.3  特殊矩阵的压缩存储.md",
