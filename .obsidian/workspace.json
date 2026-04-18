@@ -228,13 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sx/🌲2.一元微分学及其应用.md",
+                "file": "sx/🌲中值定理mean value theorem（微分与积分）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🌲2.一元微分学及其应用 的大纲"
+              "title": "🌲中值定理mean value theorem（微分与积分） 的大纲"
             }
           },
           {
@@ -435,7 +435,8 @@
                   "title": "🌲3.一元积分学及其应用"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -448,10 +449,10 @@
       }
     ]
   },
-  "active": "1b8f28555fd5a712",
+  "active": "f6854f0b404073d4",
   "lastOpenFiles": [
-    "sx/🌲1.函数（数列）极限和连续做题必记.md",
     "sx/🌲2.一元微分学及其应用.md",
+    "sx/🌲1.函数（数列）极限和连续做题必记.md",
     "sx/🌲3.一元积分学及其应用.md",
     "sx/🌲中值定理mean value theorem（微分与积分）.md",
     "图片/截屏2026-04-18 20.58.12.png",
