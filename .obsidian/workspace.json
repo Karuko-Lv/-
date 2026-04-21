@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sx/🌲2.一元微分学及其应用.md",
+                "file": "sx/🌟证明不等式的常用方法总结.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌲2.一元微分学及其应用"
+              "title": "🌟证明不等式的常用方法总结"
             }
           },
           {
@@ -228,13 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sx/🌲中值定理mean value theorem（微分与积分）.md",
+                "file": "sx/🌟证明不等式的常用方法总结.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🌲中值定理mean value theorem（微分与积分） 的大纲"
+              "title": "🌟证明不等式的常用方法总结 的大纲"
             }
           },
           {
@@ -449,11 +449,12 @@
       }
     ]
   },
-  "active": "f6854f0b404073d4",
+  "active": "7541d08057ce36b3",
   "lastOpenFiles": [
-    "sx/🌲1.函数（数列）极限和连续做题必记.md",
-    "sx/🌲中值定理mean value theorem（微分与积分）.md",
+    "sx/🌟 🌟重要函数关系图像.md",
     "sx/🌲2.一元微分学及其应用.md",
+    "sx/🌲中值定理mean value theorem（微分与积分）.md",
+    "sx/🌲1.函数（数列）极限和连续做题必记.md",
     "sx/🌲3.一元积分学及其应用.md",
     "图片/截屏2026-04-18 20.58.12.png",
     "sx/🌟泰勒展开式及形式展开式.md",
@@ -487,7 +488,6 @@
     "数据结构与算法/3.2.2 队列的顺序实现.md",
     "数据结构与算法/1.1 数据结构的基本概念.md",
     "数据结构与算法/1.0 数据结构学什么.md",
-    "数据结构与算法/3.2.1 队列的基本概念.md",
     "未命名 4.base",
     "未命名 5.base",
     "未命名 3.base",
