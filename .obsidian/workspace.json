@@ -228,13 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sx/🌟证明不等式的常用方法总结.md",
+                "file": "sx/🌲中值定理mean value theorem（微分与积分）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🌟证明不等式的常用方法总结 的大纲"
+              "title": "🌲中值定理mean value theorem（微分与积分） 的大纲"
             }
           },
           {
@@ -449,8 +449,9 @@
       }
     ]
   },
-  "active": "7541d08057ce36b3",
+  "active": "f6854f0b404073d4",
   "lastOpenFiles": [
+    "sx/🌟证明不等式的常用方法总结.md",
     "sx/🌟 🌟重要函数关系图像.md",
     "sx/🌲2.一元微分学及其应用.md",
     "sx/🌲中值定理mean value theorem（微分与积分）.md",
@@ -487,7 +488,6 @@
     "sx/🌟常见函数求导公式大全.md",
     "数据结构与算法/3.2.2 队列的顺序实现.md",
     "数据结构与算法/1.1 数据结构的基本概念.md",
-    "数据结构与算法/1.0 数据结构学什么.md",
     "未命名 4.base",
     "未命名 5.base",
     "未命名 3.base",
