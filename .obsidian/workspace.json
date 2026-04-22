@@ -440,9 +440,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
+        "x": 767,
         "y": 33,
-        "width": 1470,
+        "width": 703,
         "height": 923,
         "maximize": false,
         "zoom": 0
@@ -451,10 +451,10 @@
   },
   "active": "f6854f0b404073d4",
   "lastOpenFiles": [
-    "sx/🌲2.一元微分学及其应用.md",
-    "sx/🌲中值定理mean value theorem（微分与积分）.md",
-    "sx/🌟证明不等式的常用方法总结.md",
     "sx/🌲1.函数（数列）极限和连续做题必记.md",
+    "sx/🌲中值定理mean value theorem（微分与积分）.md",
+    "sx/🌲2.一元微分学及其应用.md",
+    "sx/🌟证明不等式的常用方法总结.md",
     "sx/🌟泰勒展开式及形式展开式.md",
     "sx/🌟 🌟重要函数关系图像.md",
     "sx/🌲3.一元积分学及其应用.md",
