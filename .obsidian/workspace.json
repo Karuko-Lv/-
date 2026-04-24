@@ -228,13 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sx/🧵6.【‼️】线性方程组.md",
+                "file": "sx/🌲中值定理mean value theorem（微分与积分）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🧵6.【‼️】线性方程组 的大纲"
+              "title": "🌲中值定理mean value theorem（微分与积分） 的大纲"
             }
           },
           {
@@ -492,8 +492,9 @@
       }
     ]
   },
-  "active": "6ffd6ea348577246",
+  "active": "2361957ae015b7a0",
   "lastOpenFiles": [
+    "sx/🧵6.【‼️】线性方程组.md",
     "sx/🌲中值定理mean value theorem（微分与积分）.md",
     "sx/🌟不等思想.md",
     "sx/🌟20 个特殊函数及其性质.md",
@@ -530,7 +531,6 @@
     "数据结构与算法/3.3.2 栈的应用——表达式求值.md",
     "数据结构与算法/3.3.1 栈的应用——括号匹配.md",
     "数据结构与算法/3.1.3 栈的链式存储实现.md",
-    "数据结构与算法/🌟错题本.md",
     "未命名 4.base",
     "未命名 5.base",
     "未命名 3.base",
