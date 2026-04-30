@@ -228,13 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sx/🧵6.【‼️】线性方程组.md",
+                "file": "sx/🌟不等思想.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🧵6.【‼️】线性方程组 的大纲"
+              "title": "🌟不等思想 的大纲"
             }
           },
           {
@@ -492,11 +492,12 @@
       }
     ]
   },
-  "active": "6ffd6ea348577246",
+  "active": "7541d08057ce36b3",
   "lastOpenFiles": [
+    "sx/🌲1.函数（数列）极限和连续做题必记.md",
+    "sx/🌟不等思想.md",
     "sx/🌲中值定理mean value theorem（微分与积分）.md",
     "sx/🧵6.【‼️】线性方程组.md",
-    "sx/🌟不等思想.md",
     "sx/🌟20 个特殊函数及其性质.md",
     "sx/🌟 🌟重要函数关系图像.md",
     "sx/🌟证明不等式的常用方法总结.md",
@@ -504,7 +505,6 @@
     "sx/🌟三角函数公式大全 (Trigonometric Formulas).md",
     "sx/🌟零向量和零矩阵.md",
     "sx/🌲2.一元微分学及其应用.md",
-    "sx/🌲1.函数（数列）极限和连续做题必记.md",
     "sx/🌟泰勒展开式及形式展开式.md",
     "sx/🌲3.一元积分学及其应用.md",
     "图片/截屏2026-04-18 20.58.12.png",
