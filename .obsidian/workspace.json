@@ -228,13 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sx/🧵6.【‼️】线性方程组.md",
+                "file": "sx/🌲中值定理mean value theorem（微分与积分）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🧵6.【‼️】线性方程组 的大纲"
+              "title": "🌲中值定理mean value theorem（微分与积分） 的大纲"
             }
           },
           {
@@ -492,12 +492,12 @@
       }
     ]
   },
-  "active": "6ffd6ea348577246",
+  "active": "2361957ae015b7a0",
   "lastOpenFiles": [
+    "sx/🧵6.【‼️】线性方程组.md",
     "sx/🌟不等思想.md",
     "sx/🌲1.函数（数列）极限和连续做题必记.md",
     "sx/🌲中值定理mean value theorem（微分与积分）.md",
-    "sx/🧵6.【‼️】线性方程组.md",
     "sx/🌟20 个特殊函数及其性质.md",
     "sx/🌟 🌟重要函数关系图像.md",
     "sx/🌟证明不等式的常用方法总结.md",
