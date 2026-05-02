@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构与算法/3.1.3 栈的链式存储实现.md",
+                "file": "数据结构与算法/3.2.4 双端队列.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1.3 栈的链式存储实现"
+              "title": "3.2.4 双端队列"
             }
           }
         ],
@@ -117,12 +117,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "5bc5633bbbb3025a",
@@ -186,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构与算法/3.1.3 栈的链式存储实现.md",
+                "file": "数据结构与算法/3.2.4 双端队列.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3.1.3 栈的链式存储实现 的大纲"
+              "title": "3.2.4 双端队列 的大纲"
             }
           },
           {
@@ -451,6 +450,7 @@
   },
   "active": "4ffdd914cc7507c5",
   "lastOpenFiles": [
+    "数据结构与算法/3.1.3 栈的链式存储实现.md",
     "English/长难句/2026-4-7.md",
     "sx/🌲1.函数（数列）极限和连续做题必记.md",
     "sx/🌟不等思想.md",
@@ -487,7 +487,6 @@
     "数据结构与算法/3.1.2 栈的顺序存储实现.md",
     "数据结构与算法/3.3.2 栈的应用——表达式求值.md",
     "数据结构与算法/3.3.1 栈的应用——括号匹配.md",
-    "数据结构与算法/3.1.3 栈的链式存储实现.md",
     "未命名 4.base",
     "未命名 5.base",
     "未命名 3.base",
