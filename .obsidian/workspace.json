@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构与算法/2.2.1 顺序表的定义.md",
+                "file": "数据结构与算法/3.0 第三章总结.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2.1 顺序表的定义"
+              "title": "3.0 第三章总结"
             }
           }
         ],
@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "5bc5633bbbb3025a",
@@ -186,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构与算法/2.2.1 顺序表的定义.md",
+                "file": "数据结构与算法/3.0 第三章总结.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2.2.1 顺序表的定义 的大纲"
+              "title": "3.0 第三章总结 的大纲"
             }
           },
           {
@@ -452,6 +451,7 @@
   },
   "active": "4ffdd914cc7507c5",
   "lastOpenFiles": [
+    "数据结构与算法/2.2.1 顺序表的定义.md",
     "数据结构与算法/3.0 第三章总结.md",
     "数据结构与算法/4.1.1 串的定义.md",
     "数据结构与算法/2.3.5 静态链表.md",
@@ -487,7 +487,6 @@
     "图片/截屏2026-04-17 20.32.45.png",
     "图片/截屏2026-04-17 20.31.03.png",
     "数据结构与算法/4.2.1 简单模式匹配算法.md",
-    "数据结构与算法/3.4.1 数组的定义&&3.4.2  数组的存储结构.md",
     "图片/截屏2026-04-17 20.27.46.png",
     "未命名 4.base",
     "未命名 5.base",
