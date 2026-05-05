@@ -49,7 +49,32 @@ root = (BiTree)malloc(sizeof(BiTNode));
 ```
 `malloc` 返回的是一个毫无感情的 `void*`（无类型指针）
 **判空与释放。** 内存可能会申请失败（虽然很少见），用完后**必须**用 `free()` 释放，否则会内存泄漏！
+```cpp
+#include <stdio.h>
+#include <stdlib.h> // malloc 和 free 在这个头文件里
 
+int main() {
+    // 1. 申请一个 int 的空间
+    int* p1 = (int*)malloc(sizeof(int));
+    *p1 = 100;
+
+    // 2. 申请一个长度为 10 的 int 数组空间‼️🌟
+    int* arr = (int*)malloc(sizeof(int) * 10);
+    arr[0] = 1; 
+
+    // 3. 申请失败检查（严谨的写法）
+    if (arr == NULL) {
+        printf("内存申请失败！\n");
+        return -1;
+    }
+
+    // 4. 用完必须释放！
+    free(p1);
+    free(arr);
+
+    return 0;
+}
+```
 ### `new` 写法
 `new` 是 C++ 内置的**运算符**（就像 `+`、`-` 一样），它能自动计算大小并转换类型
 ```cpp
@@ -60,5 +85,21 @@ root = new BiTree();
 ```cpp
 root = new BiTree[1];
 ```
-意思是：分配一个数组，这个数组里装了 1 个指针。返回的是二级指针
+意思是：分配一个数组，这个数组里装了 1 个指针。返回的是二级指针 `BiTNode`，在内存中只分配了 4 个或 8 个字节（一个指针的大小），而**不是**一整个树节点的大小
 `new` 后面应该跟着想创建的实体类型
+
+```cpp
+// 1. 申请一个 int 的空间
+int* p1 = new int;      
+
+// 2. 申请一个 int 并初始化为 100
+int* p2 = new int(100); 
+
+// 3. 申请一个长度为 10 的 int 数组
+int* arr = new int[10]; 
+
+// 4. 释放空间
+delete p1;
+delete p2;
+delete[] arr; // ‼️‼️注意：释放数组必须加 []
+```
