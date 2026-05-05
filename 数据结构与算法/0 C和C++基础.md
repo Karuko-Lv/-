@@ -12,4 +12,20 @@ typedef struct {
 
 // 之后可以直接用 Point 声明变量： Point p1;
 ```
-###
+## `malloc` 和 `new`
+以二叉树数据结构最标准定义为例子
+```cpp
+typedef struct BiTNode {
+    int data;
+    struct BiTNode *lchild, *rchild;
+} BiTNode, *BiTree;
+```
+「PS」 `BiTNode` 是一个结构体（树的节点），而 `BiTree` 是一个指针（指向节点的指针，等价于 `BiTNode*`）
+初始化需要在空树基础上插入根结点
+### `malloc` 写法
+```cpp
+//1️⃣定义空树
+BiTree root = null;
+//2️⃣定义根结点
+root = (BiTree)malloc(sizeof(BiTNode));
+```
