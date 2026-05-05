@@ -12,3 +12,4 @@ typedef struct {
 
 // 之后可以直接用 Point 声明变量： Point p1;
 ```
+###
