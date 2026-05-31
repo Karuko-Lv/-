@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "5bc5633bbbb3025a",
@@ -258,7 +257,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "167aa5656d0de42c",
+  "active": "bd29c57c5f4070df",
   "lastOpenFiles": [
     "图片/截屏2026-05-31 18.39.51.png",
     "图片/截屏2026-05-31 18.23.45.png",
