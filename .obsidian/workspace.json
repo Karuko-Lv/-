@@ -53,14 +53,17 @@
             "id": "167aa5656d0de42c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "408/计算机组成原理/2.4 C语言变量.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "2.4 C语言变量"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名 1"
             }
           }
         ],
@@ -135,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "5bc5633bbbb3025a",
@@ -200,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/计算机组成原理/2.4 C语言变量.md",
+                "file": "未命名 2.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2.4 C语言变量 的大纲"
+              "title": "未命名 2 的大纲"
             }
           },
           {
@@ -225,8 +227,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -240,7 +242,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -258,8 +260,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "167aa5656d0de42c",
+  "active": "bd29c57c5f4070df",
   "lastOpenFiles": [
+    "未命名 1.canvas",
+    "未命名 2.canvas",
+    "未命名.canvas",
+    "2026-06-06.md",
+    "408/计算机组成原理/2.4 C语言变量.md",
+    "图片/截屏2026-06-06 20.52.01.png",
+    "图片/截屏2026-06-06 20.48.21.png",
     "图片/截屏2026-06-06 20.44.41.png",
     "图片/截屏2026-06-06 18.34.20.png",
     "图片/截屏2026-06-06 18.34.11.png",
@@ -268,13 +277,9 @@
     "图片/截屏2026-06-06 18.32.56.png",
     "图片/Pasted image 20260606183145.png",
     "图片/截屏2026-06-06 18.30.57.png",
-    "图片/截屏2026-06-06 18.29.52.png",
-    "图片/截屏2026-06-06 18.26.55.png",
-    "图片/截屏2026-06-06 18.24.45.png",
     "408/计算机组成原理/2.3 浮点数的表示与运算.md",
     "408/计算机组成原理/2.1 数制与编码.md",
     "408/数据结构与算法/0.1 C和C++基础.md",
-    "408/计算机组成原理/2.4 C语言变量.md",
     "408/计算机组成原理/1.3 计算机的性能指标.md",
     "408/计算机组成原理/2.2 运算方法和运算电路.md",
     "408/计算机组成原理/1.2 计算机系统层次结构.md",
@@ -297,7 +302,6 @@
     "408/数据结构与算法/3.3.1 栈的应用——括号匹配.md",
     "408/数据结构与算法/3.3.2 栈的应用——表达式求值.md",
     "408/数据结构与算法/3.3.3 栈的应用——递归.md",
-    "408/数据结构与算法/6.4 图的应用.md",
     "图片/第一章 2.pdf",
     "图片/第一章 计算机网络体系结构1.pdf",
     "图片/第一章 1.pdf",
@@ -305,7 +309,6 @@
     "图片/第一章 计算机系统概述.pdf",
     "图片/0 引言.pdf",
     "408",
-    "未命名 3.base",
-    "未命名.canvas"
+    "未命名 3.base"
   ]
 }
