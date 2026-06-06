@@ -41,33 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/数据结构与算法/0.1 C和C++基础.md",
+                "file": "408/计算机组成原理/2.4 C语言变量.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0.1 C和C++基础"
-            }
-          },
-          {
-            "id": "167aa5656d0de42c",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "未命名 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名 1"
+              "title": "2.4 C语言变量"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 309.5,
+    "collapsed": true
   },
   "right": {
     "id": "5bc5633bbbb3025a",
@@ -202,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 2.canvas",
+                "file": "408/计算机组成原理/2.4 C语言变量.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 2 的大纲"
+              "title": "2.4 C语言变量 的大纲"
             }
           },
           {
@@ -217,8 +201,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -242,7 +226,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -260,9 +244,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bd29c57c5f4070df",
+  "active": "4ffdd914cc7507c5",
   "lastOpenFiles": [
+    "408/数据结构与算法/0.1 C和C++基础.md",
     "未命名 1.canvas",
+    "未命名 1.md",
     "未命名 2.canvas",
     "未命名.canvas",
     "2026-06-06.md",
@@ -279,13 +265,11 @@
     "图片/截屏2026-06-06 18.30.57.png",
     "408/计算机组成原理/2.3 浮点数的表示与运算.md",
     "408/计算机组成原理/2.1 数制与编码.md",
-    "408/数据结构与算法/0.1 C和C++基础.md",
     "408/计算机组成原理/1.3 计算机的性能指标.md",
     "408/计算机组成原理/2.2 运算方法和运算电路.md",
     "408/计算机组成原理/1.2 计算机系统层次结构.md",
     "未命名",
     "1",
-    "未命名 1.md",
     "未命名.md",
     "408/计算机组成原理/1.1 计算机发展历程.md",
     "408/数据结构与算法/6.1 图的基本概念.md",
