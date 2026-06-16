@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/计算机组成原理/3.3 主存储器与CPU的连接.md",
+                "file": "408/计算机组成原理/3.2 主存储器.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3.3 主存储器与CPU的连接 的大纲"
+              "title": "3.2 主存储器 的大纲"
             }
           },
           {
@@ -259,8 +259,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f7508a2eacc41221",
+  "active": "4ffdd914cc7507c5",
   "lastOpenFiles": [
+    "408/计算机组成原理/3.3 主存储器与CPU的连接.md",
     "408/计算机组成原理/3.2 主存储器.md",
     "图片/截屏2026-06-16 16.04.30.png",
     "图片/截屏2026-06-16 16.03.03.png",
@@ -277,7 +278,6 @@
     "未命名 1.md",
     "未命名 3.md",
     "未命名 4.md",
-    "408/计算机组成原理/3.3 主存储器与CPU的连接.md",
     "408/计算机组成原理/3.4 外部存储器.md",
     "408/计算机组成原理/3.1 存储器概述.md",
     "sx/🌟常见函数求导公式大全.md",
