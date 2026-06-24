@@ -1,0 +1,24 @@
+{
+  "id": "conv-1782273613541-iozerhbvu",
+  "providerId": "claude",
+  "title": "Improve thinking section formatting",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782273613552,
+  "updatedAt": 1782273641013,
+  "lastResponseAt": 1782273641013,
+  "sessionId": "b4a3dc32-4ca2-473e-8f6b-0cd553b667d0",
+  "providerState": {
+    "providerSessionId": "b4a3dc32-4ca2-473e-8f6b-0cd553b667d0"
+  },
+  "currentNote": "408/计算机组成原理/3.5 高速缓冲存储器.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 512,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 46592,
+    "contextWindow": 200000,
+    "contextTokens": 47104,
+    "percentage": 24,
+    "contextWindowIsAuthoritative": true
+  }
+}
