@@ -160,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "5bc5633bbbb3025a",
@@ -265,7 +264,7 @@
             }
           },
           {
-            "id": "6fcf8efbd09ac6a7",
+            "id": "ee8cf986ea5bbe12",
             "type": "leaf",
             "state": {
               "type": "claudian-view",
@@ -279,7 +278,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 409.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -295,8 +294,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cf7ef536a821a1d1",
+  "active": "ee8cf986ea5bbe12",
   "lastOpenFiles": [
+    "图片/截屏2026-06-24 12.51.52.png",
     "图片/截屏2026-06-24 12.48.58.png",
     "408/计算机组成原理/3.5 高速缓冲存储器.md",
     "计算机组成原理/计算机组成原理_截图整理笔记.md",
@@ -316,7 +316,6 @@
     "图片/截屏2026-06-23 18.04.06.png",
     "图片/截屏2026-06-23 18.01.57.png",
     "图片/截屏2026-06-23 18.00.39.png",
-    "图片/截屏2026-06-23 17.58.29.png",
     "408/计算机组成原理/3.3 主存储器与CPU的连接.md",
     "计算机组成原理/计算机组成原理截图",
     "计算机组成原理",
