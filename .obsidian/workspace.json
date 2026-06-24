@@ -274,7 +274,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -294,7 +294,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6fcf8efbd09ac6a7",
+  "active": "f0bb628d4378d79e",
   "lastOpenFiles": [
     "计算机组成原理/计算机组成原理_截图整理笔记.md",
     "408/计算机组成原理/3.5 高速缓冲存储器.md",
