@@ -4,8 +4,8 @@
   "title": "帮我安装obsidian-skills",
   "titleGenerationStatus": "failed",
   "createdAt": 1782276050856,
-  "updatedAt": 1782285150914,
-  "lastResponseAt": 1782285150914,
+  "updatedAt": 1782311161572,
+  "lastResponseAt": 1782311161572,
   "sessionId": "e20dd33a-96b2-4bea-971c-caf09373a3d9",
   "providerState": {
     "providerSessionId": "e20dd33a-96b2-4bea-971c-caf09373a3d9"
@@ -13,12 +13,12 @@
   "currentNote": "408/计算机组成原理/3.5 高速缓冲存储器.md",
   "usage": {
     "model": "opus[1m]",
-    "inputTokens": 1108,
+    "inputTokens": 1307,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 61184,
+    "cacheReadInputTokens": 64640,
     "contextWindow": 1000000,
-    "contextTokens": 62292,
-    "percentage": 6,
+    "contextTokens": 65947,
+    "percentage": 7,
     "contextWindowIsAuthoritative": true
   }
 }
