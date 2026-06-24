@@ -4,6 +4,20 @@
   "title": "Refine machine word, storage word, addressing unit",
   "titleGenerationStatus": "success",
   "createdAt": 1782311390627,
-  "updatedAt": 1782311402458,
-  "sessionId": null
+  "updatedAt": 1782311433520,
+  "lastResponseAt": 1782311433520,
+  "sessionId": "2c9ef93a-28b9-44d4-af3e-18fe7390cdd9",
+  "providerState": {
+    "providerSessionId": "2c9ef93a-28b9-44d4-af3e-18fe7390cdd9"
+  },
+  "currentNote": "408/计算机组成原理/4.1 指令系统.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 2743,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 29568,
+    "contextWindow": 1000000,
+    "contextTokens": 32311,
+    "percentage": 3
+  }
 }
