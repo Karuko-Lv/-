@@ -4,13 +4,12 @@
   "title": "Improve thinking section formatting",
   "titleGenerationStatus": "success",
   "createdAt": 1782273613552,
-  "updatedAt": 1782275066009,
-  "lastResponseAt": 1782275066009,
+  "updatedAt": 1782276039864,
+  "lastResponseAt": 1782276039864,
   "sessionId": "b4a3dc32-4ca2-473e-8f6b-0cd553b667d0",
   "providerState": {
     "providerSessionId": "b4a3dc32-4ca2-473e-8f6b-0cd553b667d0"
   },
-  "currentNote": "408/计算机组成原理/3.5 高速缓冲存储器.md",
   "usage": {
     "model": "haiku",
     "inputTokens": 512,

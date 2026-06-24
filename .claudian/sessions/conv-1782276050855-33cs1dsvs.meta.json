@@ -1,0 +1,14 @@
+{
+  "id": "conv-1782276050855-33cs1dsvs",
+  "providerId": "claude",
+  "title": "帮我安装obsidian-skills",
+  "titleGenerationStatus": "pending",
+  "createdAt": 1782276050856,
+  "updatedAt": 1782276475082,
+  "lastResponseAt": 1782276475082,
+  "sessionId": "e20dd33a-96b2-4bea-971c-caf09373a3d9",
+  "providerState": {
+    "providerSessionId": "e20dd33a-96b2-4bea-971c-caf09373a3d9"
+  },
+  "currentNote": "408/计算机组成原理/3.5 高速缓冲存储器.md"
+}
