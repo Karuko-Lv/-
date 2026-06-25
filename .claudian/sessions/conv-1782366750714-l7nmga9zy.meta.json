@@ -4,11 +4,20 @@
   "title": "请你根据A4背单词为我生成一个背单词的格式 利用记忆曲线的那种",
   "titleGenerationStatus": "failed",
   "createdAt": 1782366750714,
-  "updatedAt": 1782366924874,
-  "lastResponseAt": 1782366865191,
+  "updatedAt": 1782367459032,
+  "lastResponseAt": 1782367459032,
   "sessionId": "f7341237-727d-4b75-bc1d-0d999e97dc78",
   "providerState": {
     "providerSessionId": "f7341237-727d-4b75-bc1d-0d999e97dc78"
   },
-  "currentNote": "English/exam/2012.md"
+  "currentNote": "English/exam/2012.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 110,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 37504,
+    "contextWindow": 1000000,
+    "contextTokens": 37614,
+    "percentage": 4
+  }
 }
