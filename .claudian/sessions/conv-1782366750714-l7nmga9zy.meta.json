@@ -1,0 +1,14 @@
+{
+  "id": "conv-1782366750714-l7nmga9zy",
+  "providerId": "claude",
+  "title": "请你根据A4背单词为我生成一个背单词的格式 利用记忆曲线的那种",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1782366750714,
+  "updatedAt": 1782366924874,
+  "lastResponseAt": 1782366865191,
+  "sessionId": "f7341237-727d-4b75-bc1d-0d999e97dc78",
+  "providerState": {
+    "providerSessionId": "f7341237-727d-4b75-bc1d-0d999e97dc78"
+  },
+  "currentNote": "English/exam/2012.md"
+}
