@@ -27,50 +27,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语作文模版.md",
+                "file": "408/计算机组成原理/4.2 寻址方式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "英语作文模版"
+              "title": "4.2 寻址方式"
             }
           },
           {
-            "id": "f7508a2eacc41221",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记diary/2026-6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-6"
-            }
-          },
-          {
-            "id": "ef174a167e1e17b3",
+            "id": "cfe9e8b3a626754d",
             "type": "leaf",
             "state": {
               "type": "full-calendar-view",
               "state": {},
               "icon": "calendar-glyph",
               "title": "Calendar"
-            }
-          },
-          {
-            "id": "cf7ef536a821a1d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/计算机组成原理/4.1 指令系统.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4.1 指令系统"
             }
           },
           {
@@ -88,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 309.5,
+    "collapsed": true
   },
   "right": {
     "id": "5bc5633bbbb3025a",
@@ -220,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记diary/2026-6.md",
+                "file": "408/计算机组成原理/4.2 寻址方式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-6 的大纲"
+              "title": "4.2 寻址方式 的大纲"
             }
           },
           {
@@ -281,24 +254,27 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ef174a167e1e17b3",
+  "active": "ad4ab6091b659499",
   "lastOpenFiles": [
-    "Z变换性质表.md",
+    "图片/截屏2026-06-25 22.03.11.png",
+    "图片/截屏2026-06-25 22.02.34.png",
+    "图片/截屏2026-06-25 22.01.57.png",
+    "图片/截屏2026-06-25 22.01.37.png",
+    "图片/截屏2026-06-25 21.59.59.png",
+    "图片/截屏2026-06-25 21.59.52.png",
+    "图片/截屏2026-06-25 21.55.16.png",
+    "英语作文模版.md",
     "日记diary/2026-6.md",
+    "日记diary/🌟2026key.md",
+    "408/计算机组成原理/4.1 指令系统.md",
+    "Z变换性质表.md",
     "408/计算机组成原理/4.2 寻址方式.md",
     "图片/截屏2026-06-25 21.42.41.png",
     "图片/截屏2026-06-25 21.42.11.png",
     "图片/截屏2026-06-25 21.39.55.png",
     "图片/截屏2026-06-25 21.33.18.png",
-    "图片/截屏2026-06-25 21.32.19.png",
-    "图片/截屏2026-06-25 21.31.53.png",
-    "图片/截屏2026-06-25 21.31.38.png",
     "408/计算机组成原理/4.4 汇编语言（扩展）.md",
-    "408/计算机组成原理/4.1 指令系统.md",
     "408/计算机组成原理/2.4 C语言变量.md",
-    "图片/截屏2026-06-25 21.11.06.png",
-    "图片/截屏2026-06-25 21.09.03.png",
-    "图片/截屏2026-06-25 21.08.51.png",
     "408/计算机组成原理/4.3 程序的机器级代码表示.md",
     "408/计算机组成原理/4.2 寻址方式（AI版）.md",
     "408/计算机组成原理/4.3 程序的机器级代码表示 （AI版本）.md",
@@ -321,14 +297,11 @@
     "408/计算机组成原理/3.4 外部存储器.md",
     "408/计算机组成原理/3.3 主存储器与CPU的连接.md",
     "计算机组成原理/计算机组成原理_截图整理笔记.md",
-    "英语作文模版.md",
     "模拟域频率变换 (非低通设计).md",
     "积分常见空间区域Ω.pdf",
     "2026-06-06.md",
     "空间图形（一定要会画）.pdf",
     "空间图形（一定要会画） 1.pdf",
-    "408/数据结构与算法/6.1 图的基本概念.md",
-    "408/计算机组成原理/3.2 主存储器.md",
     "未命名 1.canvas",
     "未命名 2.canvas",
     "未命名.canvas"
