@@ -1,3 +1,4 @@
+
 Here is the markdown transcription of the Z-Transform Properties table from the image.
 
 ### Z-Transform Properties & ROC (Z变换性质表)

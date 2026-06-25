@@ -41,12 +41,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/计算机组成原理/4.2 寻址方式.md",
+                "file": "日记diary/2026-6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.2 寻址方式"
+              "title": "2026-6"
+            }
+          },
+          {
+            "id": "ef174a167e1e17b3",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
             }
           },
           {
@@ -78,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "5bc5633bbbb3025a",
@@ -211,23 +220,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/计算机组成原理/4.2 寻址方式.md",
+                "file": "日记diary/2026-6.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "4.2 寻址方式 的大纲"
-            }
-          },
-          {
-            "id": "16ec3aeaa14042c3",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "title": "2026-6 的大纲"
             }
           },
           {
@@ -278,11 +277,15 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "f7508a2eacc41221",
+  "active": "ef174a167e1e17b3",
   "lastOpenFiles": [
+    "Z变换性质表.md",
+    "日记diary/2026-6.md",
+    "408/计算机组成原理/4.2 寻址方式.md",
     "图片/截屏2026-06-25 21.42.41.png",
     "图片/截屏2026-06-25 21.42.11.png",
     "图片/截屏2026-06-25 21.39.55.png",
@@ -293,11 +296,9 @@
     "408/计算机组成原理/4.4 汇编语言（扩展）.md",
     "408/计算机组成原理/4.1 指令系统.md",
     "408/计算机组成原理/2.4 C语言变量.md",
-    "408/计算机组成原理/4.2 寻址方式.md",
     "图片/截屏2026-06-25 21.11.06.png",
     "图片/截屏2026-06-25 21.09.03.png",
     "图片/截屏2026-06-25 21.08.51.png",
-    "图片/截屏2026-06-25 21.03.00.png",
     "408/计算机组成原理/4.3 程序的机器级代码表示.md",
     "408/计算机组成原理/4.2 寻址方式（AI版）.md",
     "408/计算机组成原理/4.3 程序的机器级代码表示 （AI版本）.md",
@@ -328,7 +329,6 @@
     "空间图形（一定要会画） 1.pdf",
     "408/数据结构与算法/6.1 图的基本概念.md",
     "408/计算机组成原理/3.2 主存储器.md",
-    "自媒体/赚钱.md",
     "未命名 1.canvas",
     "未命名 2.canvas",
     "未命名.canvas"
