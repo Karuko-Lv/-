@@ -16,7 +16,10 @@ paper_citations: "new"
 paper_url: "https://arxiv.org/abs/2606.30534"
 github: "https://orca-wm.github.io"
 ---
-
+## 自己
+### 大语言🆚世界
+- **大语言模型**描述的是**模型类型和训练目标**：通过预测下一个 Token 学习语言能力。
+- **世界模型**描述的是**模型具备的一种能力**：能够在内部表示和预测世界状态的变化。
 # Orca
 
 **Orca: The World is in Your Mind**
