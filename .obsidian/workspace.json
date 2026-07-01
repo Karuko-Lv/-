@@ -59,7 +59,8 @@
               "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/计算机组成原理/5.3 数据通路的功能和基本结构.md",
+                "file": "11408考研作战手册/01-每日计划/2026-07-01 Day001.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "5.3 数据通路的功能和基本结构 的大纲"
+              "title": "2026-07-01 Day001 的大纲"
             }
           },
           {
@@ -253,10 +254,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "1f9ba1b7e6d72db9",
+  "active": "ad4ab6091b659499",
   "lastOpenFiles": [
-    "11408考研作战手册/01-每日计划/2026-07-01 Day001.md",
     "408/计算机组成原理/5.3 数据通路的功能和基本结构.md",
+    "11408考研作战手册/01-每日计划/2026-07-01 Day001.md",
     "图片/截屏2026-07-01 22.36.17.png",
     "408/计算机组成原理/5.1 CPU的功能和基本结构.md",
     "21_Orca/model.py.md",
