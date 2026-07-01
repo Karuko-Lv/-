@@ -81,7 +81,7 @@
   "settingsProvider": "claude",
   "savedProviderModel": {
     "claude": "opus[1m]",
-    "codex": "gpt-5.5"
+    "codex": "gpt-5.4-mini"
   },
   "savedProviderEffort": {
     "claude": "max",
