@@ -3,7 +3,7 @@
   "permissionMode": "yolo",
   "model": "opus[1m]",
   "thinkingBudget": "off",
-  "effortLevel": "max",
+  "effortLevel": "high",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
   "titleGenerationModel": "",
@@ -84,7 +84,7 @@
     "codex": "gpt-5.4-mini"
   },
   "savedProviderEffort": {
-    "claude": "max",
+    "claude": "high",
     "codex": "xhigh"
   },
   "savedProviderServiceTier": {

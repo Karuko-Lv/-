@@ -4,8 +4,8 @@
   "title": "修改11408考研学习计划",
   "titleGenerationStatus": "success",
   "createdAt": 1782907150929,
-  "updatedAt": 1782921089574,
-  "lastResponseAt": 1782921089574,
+  "updatedAt": 1782921562663,
+  "lastResponseAt": 1782921473113,
   "sessionId": "019f1d8c-2450-7a42-8c09-0c9aceb06c9e",
   "providerState": {
     "threadId": "019f1d8c-2450-7a42-8c09-0c9aceb06c9e",
@@ -17,10 +17,10 @@
     "inputTokens": 113987,
     "cacheCreationInputTokens": 0,
     "cacheReadInputTokens": 105856,
-    "contextWindow": 258400,
-    "contextWindowIsAuthoritative": true,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": false,
     "contextTokens": 113987,
-    "percentage": 44,
-    "model": "gpt-5.5"
+    "percentage": 57,
+    "model": "gpt-5.4-mini"
   }
 }
