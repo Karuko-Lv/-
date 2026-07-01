@@ -4,6 +4,23 @@
   "title": "修改11408考研学习计划",
   "titleGenerationStatus": "success",
   "createdAt": 1782907150929,
-  "updatedAt": 1782907154638,
-  "sessionId": null
+  "updatedAt": 1782907722797,
+  "lastResponseAt": 1782907722797,
+  "sessionId": "019f1d8c-2450-7a42-8c09-0c9aceb06c9e",
+  "providerState": {
+    "threadId": "019f1d8c-2450-7a42-8c09-0c9aceb06c9e",
+    "sessionFilePath": "/Users/lvxiaoxu/.codex/sessions/2026/07/01/rollout-2026-07-01T19-59-11-019f1d8c-2450-7a42-8c09-0c9aceb06c9e.jsonl",
+    "transcriptRootPath": "/Users/lvxiaoxu/.codex/sessions"
+  },
+  "currentNote": "11408考研作战手册/01-每日计划/2026-11-05 Day128.md",
+  "usage": {
+    "inputTokens": 113987,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 105856,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 113987,
+    "percentage": 44,
+    "model": "gpt-5.5"
+  }
 }
