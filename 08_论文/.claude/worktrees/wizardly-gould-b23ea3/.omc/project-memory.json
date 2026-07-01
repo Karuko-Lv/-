@@ -1,0 +1,320 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1782824965910,
+  "projectRoot": "/Users/heyuhang/Documents/Obsidian Vault/08_论文/.claude/worktrees/wizardly-gould-b23ea3",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "00_Inbox": {
+      "path": "00_Inbox",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1782824965887,
+      "keyFiles": [
+        "草稿.md"
+      ]
+    },
+    "01_数学": {
+      "path": "01_数学",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1782824965888,
+      "keyFiles": []
+    },
+    "02_DSP": {
+      "path": "02_DSP",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1782824965890,
+      "keyFiles": []
+    },
+    "03_计算机组成原理": {
+      "path": "03_计算机组成原理",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1782824965890,
+      "keyFiles": [
+        "408 计组高频计算题训练单.md",
+        "计算机组成原理_截图整理笔记.md"
+      ]
+    },
+    "04_音频算法": {
+      "path": "04_音频算法",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1782824965890,
+      "keyFiles": [
+        "BS-Roformer.md",
+        "HB Demucs.md"
+      ]
+    },
+    "05_编程": {
+      "path": "05_编程",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1782824965891,
+      "keyFiles": []
+    },
+    "06_英语": {
+      "path": "06_英语",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1782824965892,
+      "keyFiles": [
+        "长难句.md"
+      ]
+    },
+    "07_工具": {
+      "path": "07_工具",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1782824965892,
+      "keyFiles": []
+    },
+    "08_论文": {
+      "path": "08_论文",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1782824965893,
+      "keyFiles": [
+        "VLA论文精讲.md"
+      ]
+    },
+    "99_Archive": {
+      "path": "99_Archive",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1782824965893,
+      "keyFiles": [
+        "计算机组成原理.zip"
+      ]
+    },
+    "02_DSP/assets": {
+      "path": "02_DSP/assets",
+      "purpose": "Static assets",
+      "fileCount": 35,
+      "lastAccessed": 1782824965894,
+      "keyFiles": [
+        "DFT分辨率_瑞利判据vs严格不重叠.png",
+        "DFT参数设计与补零验证.png",
+        "DFT序列偶奇延拓演示.png"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "03_计算机组成原理/计算机组成原理_截图整理笔记.md",
+      "accessCount": 184,
+      "lastAccessed": 1782203285218,
+      "type": "file"
+    },
+    {
+      "path": "计算机组成原理/计算机组成原理_截图整理笔记.md",
+      "accessCount": 38,
+      "lastAccessed": 1782136559001,
+      "type": "file"
+    },
+    {
+      "path": "_gen_excalidraw.py",
+      "accessCount": 6,
+      "lastAccessed": 1782145776518,
+      "type": "file"
+    },
+    {
+      "path": "08_论文/VLA论文精讲.md",
+      "accessCount": 5,
+      "lastAccessed": 1782826464020,
+      "type": "file"
+    },
+    {
+      "path": "03_计算机组成原理/计算机组成原理_全览.md",
+      "accessCount": 3,
+      "lastAccessed": 1782145952792,
+      "type": "file"
+    },
+    {
+      "path": "08_论文/16_FastWAM/FastWAM.md",
+      "accessCount": 3,
+      "lastAccessed": 1782825091471,
+      "type": "file"
+    },
+    {
+      "path": "06_英语/长难句.md",
+      "accessCount": 2,
+      "lastAccessed": 1782144605446,
+      "type": "file"
+    },
+    {
+      "path": "08_论文/01_Open_X-Embodiment/Open X-Embodiment & RT-X.md",
+      "accessCount": 2,
+      "lastAccessed": 1782825071579,
+      "type": "file"
+    },
+    {
+      "path": "08_论文/02_PaLM-E/PaLM-E.md",
+      "accessCount": 2,
+      "lastAccessed": 1782825071975,
+      "type": "file"
+    },
+    {
+      "path": "08_论文/03_RT-2/RT-2.md",
+      "accessCount": 2,
+      "lastAccessed": 1782825072540,
+      "type": "file"
+    },
+    {
+      "path": "08_论文/04_Diffusion_Policy/Diffusion Policy.md",
+      "accessCount": 2,
+      "lastAccessed": 1782825073188,
+      "type": "file"
+    },
+    {
+      "path": "08_论文/05_ACT/ACT.md",
+      "accessCount": 2,
+      "lastAccessed": 1782825073650,
+      "type": "file"
+    },
+    {
+      "path": "08_论文/06_Octo/Octo.md",
+      "accessCount": 2,
+      "lastAccessed": 1782825078641,
+      "type": "file"
+    },
+    {
+      "path": "08_论文/07_OpenVLA/OpenVLA.md",
+      "accessCount": 2,
+      "lastAccessed": 1782825079245,
+      "type": "file"
+    },
+    {
+      "path": "08_论文/08_pi0/π0.md",
+      "accessCount": 2,
+      "lastAccessed": 1782825079676,
+      "type": "file"
+    },
+    {
+      "path": "08_论文/09_GR00T_N1/GR00T N1.md",
+      "accessCount": 2,
+      "lastAccessed": 1782825080253,
+      "type": "file"
+    },
+    {
+      "path": "08_论文/10_MolmoAct/MolmoAct.md",
+      "accessCount": 2,
+      "lastAccessed": 1782825080800,
+      "type": "file"
+    },
+    {
+      "path": "08_论文/11_SimpleVLA-RL/SimpleVLA-RL.md",
+      "accessCount": 2,
+      "lastAccessed": 1782825085192,
+      "type": "file"
+    },
+    {
+      "path": "08_论文/12_FLOWER/FLOWER.md",
+      "accessCount": 2,
+      "lastAccessed": 1782825085691,
+      "type": "file"
+    },
+    {
+      "path": "08_论文/13_X-VLA/X-VLA.md",
+      "accessCount": 2,
+      "lastAccessed": 1782825086222,
+      "type": "file"
+    },
+    {
+      "path": "08_论文/14_Motus/Motus.md",
+      "accessCount": 2,
+      "lastAccessed": 1782825086729,
+      "type": "file"
+    },
+    {
+      "path": "08_论文/15_HybridVLA/HybridVLA.md",
+      "accessCount": 2,
+      "lastAccessed": 1782825087245,
+      "type": "file"
+    },
+    {
+      "path": "08_论文/17_VLA-Adapter/VLA-Adapter.md",
+      "accessCount": 2,
+      "lastAccessed": 1782825092008,
+      "type": "file"
+    },
+    {
+      "path": "08_论文/18_Cosmos_Policy/Cosmos Policy.md",
+      "accessCount": 2,
+      "lastAccessed": 1782825092564,
+      "type": "file"
+    },
+    {
+      "path": "08_论文/19_AttenA+/AttenA+.md",
+      "accessCount": 2,
+      "lastAccessed": 1782825093101,
+      "type": "file"
+    },
+    {
+      "path": "08_论文/20_LDA-1B/LDA-1B.md",
+      "accessCount": 2,
+      "lastAccessed": 1782825093663,
+      "type": "file"
+    },
+    {
+      "path": "07_工具/Tmux/Tmux 终极速查表 (自定义增强版).md",
+      "accessCount": 1,
+      "lastAccessed": 1782145027547,
+      "type": "file"
+    },
+    {
+      "path": "07_工具/Obsidian/Obsidian 完全使用指南.md",
+      "accessCount": 1,
+      "lastAccessed": 1782145133259,
+      "type": "file"
+    },
+    {
+      "path": "_gen_canvas.py",
+      "accessCount": 1,
+      "lastAccessed": 1782145699186,
+      "type": "file"
+    },
+    {
+      "path": "π0 原文.md",
+      "accessCount": 1,
+      "lastAccessed": 1782825007101,
+      "type": "file"
+    },
+    {
+      "path": "LDA-1B 原文.md",
+      "accessCount": 1,
+      "lastAccessed": 1782825007517,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}

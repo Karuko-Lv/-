@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"cat \\\"/Users/heyuhang/Documents/Obsidian Vault/.gitmodules\\\" 2>/dev/null && echo \\\"---\\\" && git -C \\\"/Users/heyuhang/Documents/Obsidian Vault\\\" submodule status\",\"description\":\"Check git s...",
+  "error": "Exit code 1",
+  "timestamp": "2026-06-22T14:53:38.114Z",
+  "retry_count": 2
+}

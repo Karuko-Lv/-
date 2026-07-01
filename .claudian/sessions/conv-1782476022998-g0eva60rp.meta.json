@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782476022998-g0eva60rp",
+  "providerId": "claude",
+  "title": "Implement Flag Register",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782476022998,
+  "updatedAt": 1782740390282,
+  "lastResponseAt": 1782476062575,
+  "sessionId": "f640e9d1-8247-46dc-a7c0-e6cea47bca38",
+  "providerState": {
+    "providerSessionId": "f640e9d1-8247-46dc-a7c0-e6cea47bca38"
+  },
+  "currentNote": "408/计算机组成原理/4.3 程序的机器级代码表示.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 1424,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 29696,
+    "contextWindow": 1000000,
+    "contextTokens": 31120,
+    "percentage": 3
+  }
+}

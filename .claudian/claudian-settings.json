@@ -38,10 +38,12 @@
       "environmentHash": ""
     },
     "codex": {
-      "enabled": false,
+      "enabled": true,
       "safeMode": "workspace-write",
       "cliPath": "",
-      "cliPathsByHost": {},
+      "cliPathsByHost": {
+        "device:bd1baeb8-463e-4759-92e7-be01685f6a49": "/Users/lvxiaoxu/.nvm/versions/node/v24.2.0/bin/codex"
+      },
       "customModels": "",
       "reasoningSummary": "detailed",
       "environmentVariables": "",
