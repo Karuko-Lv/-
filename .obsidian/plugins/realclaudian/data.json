@@ -10,8 +10,9 @@
         "conversationId": "conv-1782311390626-b3gtvnxxu"
       },
       {
+        "draftModel": "opus[1m]",
         "tabId": "tab-1782366728219-9xoae03",
-        "conversationId": "conv-1782740420135-5hmc0kbax"
+        "conversationId": null
       }
     ],
     "activeTabId": "tab-1782366728219-9xoae03"

@@ -80,15 +80,20 @@
   },
   "settingsProvider": "claude",
   "savedProviderModel": {
-    "claude": "opus[1m]"
+    "claude": "opus[1m]",
+    "codex": "gpt-5.5"
   },
   "savedProviderEffort": {
-    "claude": "max"
+    "claude": "max",
+    "codex": "xhigh"
   },
-  "savedProviderServiceTier": {},
+  "savedProviderServiceTier": {
+    "codex": "fast"
+  },
   "savedProviderThinkingBudget": {},
   "savedProviderPermissionMode": {
-    "claude": "yolo"
+    "claude": "yolo",
+    "codex": "yolo"
   },
   "lastCustomModel": "",
   "maxTabs": 3,
