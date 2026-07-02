@@ -61,8 +61,7 @@
               "title": "5.1 CPU的功能和基本结构"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "5bc5633bbbb3025a",
@@ -195,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/计算机组成原理/5.1 CPU的功能和基本结构.md",
+                "file": "408/计算机组成原理/5.3 数据通路的功能和基本结构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "5.1 CPU的功能和基本结构 的大纲"
+              "title": "5.3 数据通路的功能和基本结构 的大纲"
             }
           },
           {
@@ -295,13 +293,14 @@
       }
     ]
   },
-  "active": "7f38da9841ebd05a",
+  "active": "1f9ba1b7e6d72db9",
   "lastOpenFiles": [
-    "408/计算机组成原理/5.3 数据通路的功能和基本结构.md",
+    "图片/截屏2026-07-02 20.52.21.png",
     "11408考研作战手册/01-每日计划/2026-07-02 Day002.md",
+    "408/计算机组成原理/5.3 数据通路的功能和基本结构.md",
     "408/计算机组成原理/4.2 寻址方式.md",
-    "图片/45ae9aefbe2f1f9364fe87f5f9d22fc0.jpg",
     "408/计算机组成原理/5.1 CPU的功能和基本结构.md",
+    "图片/45ae9aefbe2f1f9364fe87f5f9d22fc0.jpg",
     "图片/截屏2026-07-02 18.07.52.png",
     "图片/ChatGPT Image 2026年7月2日 17_56_38.png",
     "图片/截屏2026-07-02 17.50.26.png",
