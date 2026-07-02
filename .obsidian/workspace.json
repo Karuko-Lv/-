@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "9920e44520c16021",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "图片/27张宇1000题数一-解析册.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "27张宇1000题数一-解析册"
+            }
+          },
+          {
             "id": "c5ab0662de2935ef",
             "type": "leaf",
             "state": {
@@ -206,13 +218,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学/极限知识点/02数列极限.md",
+                "file": "图片/27张宇1000题数一-解析册.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02数列极限 的大纲"
+              "title": "27张宇1000题数一-解析册 的大纲"
             }
           },
           {
@@ -268,17 +280,17 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c5ab0662de2935ef",
+  "active": "9920e44520c16021",
   "lastOpenFiles": [
+    "11408考研作战手册/01-每日计划/2026-07-02 Day002.md",
+    "数学/极限知识点/02数列极限.md",
     "数学/极限知识点/01函数.md",
     "数学/极限知识点/00考试大纲.md",
-    "数学/极限知识点/02数列极限.md",
     "数学/帕拉迪宇.md",
     "数学/极限知识点",
     "数学/未命名.md",
     "图片/极限知识点.pdf",
     "图片/27张宇1000题数一-解析册.pdf",
-    "11408考研作战手册/01-每日计划/2026-07-02 Day002.md",
     "11408考研作战手册/01-每日计划/2026-07-03 Day003.md",
     "11408考研作战手册/01-每日计划/2026-07-04 Day004.md",
     "11408考研作战手册/01-每日计划/2026-07-01 Day001.md",
