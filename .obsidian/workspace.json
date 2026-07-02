@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -244,13 +244,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "图片/27张宇1000题数一-解析册.pdf",
+                "file": "11408考研作战手册/01-每日计划/2026-07-02 Day002.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "27张宇1000题数一-解析册 的大纲"
+              "title": "2026-07-02 Day002 的大纲"
             }
           },
           {
@@ -306,12 +306,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "9ba5e1099bc09ec2",
+  "active": "ad4ab6091b659499",
   "lastOpenFiles": [
+    "图片/27张宇1000题数一-解析册.pdf",
     "11408考研作战手册/01-每日计划/2026-07-02 Day002.md",
     "数学/数学/一元微分知识点/01导数概念.md",
     "数学/数学/一元微分知识点/02导数应用.md",
-    "图片/27张宇1000题数一-解析册.pdf",
     "数学/数学/极限知识点/_assets/05连续.png",
     "数学/数学/极限知识点/_assets/04函数.png",
     "数学/数学/极限知识点/_assets/03已知极限可得.png",
