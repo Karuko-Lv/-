@@ -61,7 +61,8 @@
               "title": "5.1 CPU的功能和基本结构"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -194,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/计算机组成原理/5.3 数据通路的功能和基本结构.md",
+                "file": "408/计算机组成原理/5.1 CPU的功能和基本结构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "5.3 数据通路的功能和基本结构 的大纲"
+              "title": "5.1 CPU的功能和基本结构 的大纲"
             }
           },
           {
@@ -294,10 +295,10 @@
       }
     ]
   },
-  "active": "1f9ba1b7e6d72db9",
+  "active": "7f38da9841ebd05a",
   "lastOpenFiles": [
-    "11408考研作战手册/01-每日计划/2026-07-02 Day002.md",
     "408/计算机组成原理/5.3 数据通路的功能和基本结构.md",
+    "11408考研作战手册/01-每日计划/2026-07-02 Day002.md",
     "408/计算机组成原理/4.2 寻址方式.md",
     "图片/45ae9aefbe2f1f9364fe87f5f9d22fc0.jpg",
     "408/计算机组成原理/5.1 CPU的功能和基本结构.md",
