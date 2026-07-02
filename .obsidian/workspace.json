@@ -179,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 309.5,
+    "collapsed": true
   },
   "right": {
     "id": "5bc5633bbbb3025a",
@@ -307,6 +308,7 @@
   },
   "active": "1f9ba1b7e6d72db9",
   "lastOpenFiles": [
+    "图片/截屏2026-07-02 15.26.19.png",
     "11408考研作战手册/01-每日计划/2026-07-02 Day002.md",
     "图片/27张宇1000题数一-解析册.pdf",
     "数学/数学/一元微分知识点/01导数概念.md",
