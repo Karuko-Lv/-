@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "c5ab0662de2935ef",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "图片/27张宇1000题数一-解析册.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "27张宇1000题数一-解析册"
+            }
+          },
+          {
             "id": "af322cd0e5ef511e",
             "type": "leaf",
             "state": {
@@ -60,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11408考研作战手册/01-每日计划/2026-07-02 Day002.md",
+                "file": "图片/27张宇1000题数一-解析册.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-07-02 Day002 的大纲"
+              "title": "27张宇1000题数一-解析册 的大纲"
             }
           },
           {
@@ -254,11 +266,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ad4ab6091b659499",
+  "active": "c5ab0662de2935ef",
   "lastOpenFiles": [
+    "11408考研作战手册/01-每日计划/2026-07-02 Day002.md",
+    "图片/27张宇1000题数一-解析册.pdf",
     "11408考研作战手册/01-每日计划/2026-07-03 Day003.md",
     "11408考研作战手册/01-每日计划/2026-07-04 Day004.md",
-    "11408考研作战手册/01-每日计划/2026-07-02 Day002.md",
     "11408考研作战手册/01-每日计划/2026-07-01 Day001.md",
     "408/计算机组成原理/5.3 数据通路的功能和基本结构.md",
     "图片/截屏2026-07-01 22.36.17.png",
@@ -300,7 +313,6 @@
     "11408考研作战手册/02-月总览 2",
     "11408考研作战手册/02-月总览",
     "11408考研作战手册/01-每日计划 2",
-    "11408考研作战手册/01-每日计划",
     "未命名 1.canvas",
     "未命名 2.canvas",
     "未命名.canvas"
