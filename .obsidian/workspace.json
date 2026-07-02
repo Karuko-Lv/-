@@ -140,8 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "5bc5633bbbb3025a",
@@ -266,7 +265,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c5ab0662de2935ef",
+  "active": "bd29c57c5f4070df",
   "lastOpenFiles": [
     "11408考研作战手册/01-每日计划/2026-07-02 Day002.md",
     "图片/27张宇1000题数一-解析册.pdf",
