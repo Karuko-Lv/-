@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11408考研作战手册/01-每日计划/2026-07-03 Day003.md",
+                "file": "图片/27张宇1000题数一-解析册.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-07-03 Day003 的大纲"
+              "title": "27张宇1000题数一-解析册 的大纲"
             }
           },
           {
@@ -269,11 +269,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "cd07e945f8db5db0",
+  "active": "9ba5e1099bc09ec2",
   "lastOpenFiles": [
+    "11408考研作战手册/01-每日计划/2026-07-03 Day003.md",
     "11408考研作战手册/01-每日计划/2026-07-04 Day004.md",
     "11408考研作战手册/01-每日计划/2026-07-02 Day002.md",
-    "11408考研作战手册/01-每日计划/2026-07-03 Day003.md",
     "408/计算机组成原理/5.1 CPU的功能和基本结构.md",
     "408/计算机组成原理/5.3 数据通路的功能和基本结构.md",
     "图片/截屏2026-07-02 22.09.39.png",
