@@ -70,9 +70,37 @@
               "icon": "lucide-file",
               "title": "新标签页"
             }
+          },
+          {
+            "id": "7f38da9841ebd05a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "408/计算机组成原理/5.1 CPU的功能和基本结构.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.1 CPU的功能和基本结构"
+            }
+          },
+          {
+            "id": "cd07e945f8db5db0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11408考研作战手册/01-每日计划/2026-07-03 Day003.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-03 Day003"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -204,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/计算机组成原理/5.1 CPU的功能和基本结构.md",
+                "file": "11408考研作战手册/01-每日计划/2026-07-03 Day003.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "5.1 CPU的功能和基本结构 的大纲"
+              "title": "2026-07-03 Day003 的大纲"
             }
           },
           {
@@ -265,86 +293,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "floating": {
-    "id": "fd12683a78f669c9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d4da2fdc3189d725",
-        "type": "window",
-        "children": [
-          {
-            "id": "4a15d97e091d7b2a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "cd07e945f8db5db0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "11408考研作战手册/01-每日计划/2026-07-03 Day003.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2026-07-03 Day003"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 763,
-        "y": 59,
-        "width": 600,
-        "height": 600,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "c54b1a5195887eef",
-        "type": "window",
-        "children": [
-          {
-            "id": "0f66759bb9574179",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7f38da9841ebd05a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "408/计算机组成原理/5.1 CPU的功能和基本结构.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "5.1 CPU的功能和基本结构"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 745,
-        "y": 55,
-        "width": 600,
-        "height": 600,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "7f38da9841ebd05a",
+  "active": "cd07e945f8db5db0",
   "lastOpenFiles": [
+    "11408考研作战手册/01-每日计划/2026-07-02 Day002.md",
     "11408考研作战手册/01-每日计划/2026-07-03 Day003.md",
+    "408/计算机组成原理/5.1 CPU的功能和基本结构.md",
     "图片/27张宇1000题数一-解析册.pdf",
     "数学/🌲1.函数（数列）极限和连续做题必记.md",
     "11408考研作战手册/01-每日计划/2026-07-04 Day004.md",
-    "11408考研作战手册/01-每日计划/2026-07-02 Day002.md",
-    "408/计算机组成原理/5.1 CPU的功能和基本结构.md",
     "408/计算机组成原理/5.3 数据通路的功能和基本结构.md",
     "图片/截屏2026-07-02 22.09.39.png",
     "图片/截屏2026-07-02 22.09.28.png",
