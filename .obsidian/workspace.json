@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学/🌲1.函数（数列）极限和连续做题必记.md",
+                "file": "图片/27张宇1000题数一-解析册.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🌲1.函数（数列）极限和连续做题必记 的大纲"
+              "title": "27张宇1000题数一-解析册 的大纲"
             }
           },
           {
@@ -283,8 +283,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "bcee13dc96d14768",
+  "active": "9ba5e1099bc09ec2",
   "lastOpenFiles": [
+    "数学/🌲1.函数（数列）极限和连续做题必记.md",
     "图片/27张宇1000题数一-解析册.pdf",
     "11408考研作战手册/01-每日计划/2026-07-04 Day004 D-168.md",
     "11408考研作战手册/01-每日计划/✅2026-07-03 Day003 D-169.md",
