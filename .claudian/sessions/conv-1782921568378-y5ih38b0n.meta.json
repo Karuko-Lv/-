@@ -4,21 +4,20 @@
   "title": "Add prev/next day nav to daily plan",
   "titleGenerationStatus": "success",
   "createdAt": 1782921568378,
-  "updatedAt": 1783095018254,
-  "lastResponseAt": 1783095018254,
+  "updatedAt": 1783136668349,
+  "lastResponseAt": 1783136668349,
   "sessionId": "6ed1fa6e-498a-49a6-82e2-28d77cc4cfc2",
   "providerState": {
     "providerSessionId": "6ed1fa6e-498a-49a6-82e2-28d77cc4cfc2"
   },
-  "currentNote": "11408考研作战手册/01-每日计划/2026-07-01 Day001.md",
   "usage": {
     "model": "opus[1m]",
-    "inputTokens": 41849,
+    "inputTokens": 202,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 0,
+    "cacheReadInputTokens": 50048,
     "contextWindow": 1000000,
-    "contextTokens": 41849,
-    "percentage": 4,
+    "contextTokens": 50250,
+    "percentage": 5,
     "contextWindowIsAuthoritative": true
   }
 }
