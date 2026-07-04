@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783173006832-z5b8w7fak",
+  "providerId": "claude",
+  "title": "Install xiaohongshu-to-obsidian-skill",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783173006833,
+  "updatedAt": 1783173057234,
+  "lastResponseAt": 1783173057234,
+  "sessionId": "dc5a6a8f-d10a-40bb-8274-8d720e3b60ab",
+  "providerState": {
+    "providerSessionId": "dc5a6a8f-d10a-40bb-8274-8d720e3b60ab"
+  },
+  "currentNote": "08_DL基础及论文进阶/00_基础知识/xiaohongshu-to-obsidian-skill.md",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 253,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 39552,
+    "contextWindow": 1000000,
+    "contextTokens": 39805,
+    "percentage": 4
+  }
+}
