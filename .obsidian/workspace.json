@@ -89,8 +89,7 @@
               "title": "5.1 CPU的功能和基本结构"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/计算机组成原理/5.1 CPU的功能和基本结构.md",
+                "file": "408/计算机组成原理/5.4 控制器的功能和工作原理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "5.1 CPU的功能和基本结构 的大纲"
+              "title": "5.4 控制器的功能和工作原理 的大纲"
             }
           },
           {
@@ -283,10 +282,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "cd07e945f8db5db0",
+  "active": "1f9ba1b7e6d72db9",
   "lastOpenFiles": [
-    "408/计算机组成原理/5.4 控制器的功能和工作原理.md",
     "408/计算机组成原理/5.1 CPU的功能和基本结构.md",
+    "408/计算机组成原理/5.4 控制器的功能和工作原理.md",
     "408/计算机组成原理/4.2 寻址方式.md",
     "图片/27张宇1000题数一-解析册.pdf",
     "408/计算机组成原理/5.5 异常和中断机制.md",
