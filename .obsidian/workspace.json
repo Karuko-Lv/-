@@ -89,8 +89,7 @@
               "title": "5.4 控制器的功能和工作原理"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "图片/27张宇1000题数一-解析册.pdf",
+                "file": "408/计算机组成原理/5.4 控制器的功能和工作原理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "27张宇1000题数一-解析册 的大纲"
+              "title": "5.4 控制器的功能和工作原理 的大纲"
             }
           },
           {
@@ -284,8 +283,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "9ba5e1099bc09ec2",
+  "active": "1f9ba1b7e6d72db9",
   "lastOpenFiles": [
+    "图片/27张宇1000题数一-解析册.pdf",
     "408/计算机组成原理/5.4 控制器的功能和工作原理.md",
     "图片/截屏2026-07-04 22.54.45.png",
     "图片/截屏2026-07-04 22.51.42.png",
@@ -298,7 +298,6 @@
     "图片/截屏2026-07-04 22.28.45.png",
     "图片/截屏2026-07-04 22.28.25.png",
     "08_DL基础及论文进阶/00_基础知识/xiaohongshu-to-obsidian-skill.md",
-    "图片/27张宇1000题数一-解析册.pdf",
     "08_DL基础及论文进阶/00_基础知识/02_深度学习面试题/07_超参数调整/超参数调整.md",
     "08_DL基础及论文进阶/00_基础知识/02_深度学习面试题/06_GAN/GAN.md",
     "08_DL基础及论文进阶/00_基础知识/02_深度学习面试题/05_反向传播/反向传播.md",
