@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/计算机组成原理/4.2 寻址方式.md",
+                "file": "408/计算机组成原理/5.1 CPU的功能和基本结构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.2 寻址方式"
+              "title": "5.1 CPU的功能和基本结构"
             }
           },
           {
@@ -81,15 +81,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/计算机组成原理/5.4 控制器的功能和工作原理.md",
+                "file": "408/计算机组成原理/5.1 CPU的功能和基本结构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.4 控制器的功能和工作原理"
+              "title": "5.1 CPU的功能和基本结构"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -157,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "5bc5633bbbb3025a",
@@ -222,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/计算机组成原理/5.4 控制器的功能和工作原理.md",
+                "file": "408/计算机组成原理/5.1 CPU的功能和基本结构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "5.4 控制器的功能和工作原理 的大纲"
+              "title": "5.1 CPU的功能和基本结构 的大纲"
             }
           },
           {
@@ -283,10 +283,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "1f9ba1b7e6d72db9",
+  "active": "cd07e945f8db5db0",
   "lastOpenFiles": [
-    "408/计算机组成原理/5.5 异常和中断机制.md",
     "408/计算机组成原理/5.4 控制器的功能和工作原理.md",
+    "408/计算机组成原理/5.1 CPU的功能和基本结构.md",
+    "408/计算机组成原理/4.2 寻址方式.md",
+    "图片/27张宇1000题数一-解析册.pdf",
+    "408/计算机组成原理/5.5 异常和中断机制.md",
     "图片/截屏2026-07-05 15.29.58.png",
     "图片/截屏2026-07-05 15.23.42.png",
     "图片/截屏2026-07-05 15.20.45.png",
@@ -297,7 +300,6 @@
     "图片/截屏2026-07-05 15.04.06.png",
     "图片/截屏2026-07-05 15.02.05.png",
     "图片/Pasted image 20260705150040.png",
-    "图片/27张宇1000题数一-解析册.pdf",
     "08_DL基础及论文进阶/00_基础知识/xiaohongshu-to-obsidian-skill.md",
     "08_DL基础及论文进阶/00_基础知识/02_深度学习面试题/07_超参数调整/超参数调整.md",
     "08_DL基础及论文进阶/00_基础知识/02_深度学习面试题/06_GAN/GAN.md",
@@ -320,8 +322,6 @@
     "08_DL基础及论文进阶/00_基础知识/01_NumPy语法/03_运算与广播/运算与广播.md",
     "08_DL基础及论文进阶/00_基础知识/01_NumPy语法/02_索引切片/索引切片.md",
     "08_DL基础及论文进阶/00_基础知识/01_NumPy语法/01_数组基础/数组基础.md",
-    "08_DL基础及论文进阶/00_基础知识/00_PyTorch语法/06_实战案例/实战案例.md",
-    "08_DL基础及论文进阶/00_基础知识/00_PyTorch语法/05_训练流程/训练流程.md",
     "08_DL基础及论文进阶/03_训练基础设施/21_Muon/Muon 原文.pdf",
     "08_DL基础及论文进阶/03_训练基础设施/20_GaLore/GaLore 原文.pdf",
     "08_DL基础及论文进阶/03_训练基础设施/17_SmoothQuant/SmoothQuant 原文.pdf",
