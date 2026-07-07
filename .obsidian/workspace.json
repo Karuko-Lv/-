@@ -25,12 +25,14 @@
             "id": "9ba5e1099bc09ec2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "图片/27张宇1000题数一-解析册.pdf"
+                "file": "数学/🌲1.函数（数列）极限和连续做题必记.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "27张宇1000题数一-解析册"
+              "icon": "lucide-file",
+              "title": "🌲1.函数（数列）极限和连续做题必记"
             }
           },
           {
@@ -222,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "图片/27张宇1000题数一-解析册.pdf",
+                "file": "数学/🌲1.函数（数列）极限和连续做题必记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "27张宇1000题数一-解析册 的大纲"
+              "title": "🌲1.函数（数列）极限和连续做题必记 的大纲"
             }
           },
           {
@@ -285,8 +287,8 @@
   },
   "active": "9ba5e1099bc09ec2",
   "lastOpenFiles": [
-    "数学/🌲1.函数（数列）极限和连续做题必记.md",
     "图片/27张宇1000题数一-解析册.pdf",
+    "数学/🌲1.函数（数列）极限和连续做题必记.md",
     "408/计算机组成原理/5.6 指令流水线.md",
     "图片/截屏2026-07-06 21.48.04.png",
     "图片/截屏2026-07-06 21.46.03.png",
@@ -321,7 +323,6 @@
     "08_DL基础及论文进阶/00_基础知识/01_NumPy语法/06_PyTorch对照/06.1_基础操作对照.md",
     "08_DL基础及论文进阶/00_基础知识/01_NumPy语法/04_线性代数/线性代数.md",
     "08_DL基础及论文进阶/00_基础知识/00_PyTorch语法/01_张量操作/张量操作.md",
-    "08_DL基础及论文进阶/00_基础知识/01_NumPy语法/03_运算与广播/运算与广播.md",
     "08_DL基础及论文进阶/03_训练基础设施/21_Muon/Muon 原文.pdf",
     "08_DL基础及论文进阶/03_训练基础设施/20_GaLore/GaLore 原文.pdf",
     "08_DL基础及论文进阶/03_训练基础设施/17_SmoothQuant/SmoothQuant 原文.pdf",
