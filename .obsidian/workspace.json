@@ -25,12 +25,14 @@
             "id": "9ba5e1099bc09ec2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "图片/27张宇1000题数一-解析册.pdf"
+                "file": "数学/🌲1.函数（数列）极限和连续做题必记.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "27张宇1000题数一-解析册"
+              "icon": "lucide-file",
+              "title": "🌲1.函数（数列）极限和连续做题必记"
             }
           },
           {
@@ -222,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "图片/27张宇1000题数一-解析册.pdf",
+                "file": "数学/🌲1.函数（数列）极限和连续做题必记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "27张宇1000题数一-解析册 的大纲"
+              "title": "🌲1.函数（数列）极限和连续做题必记 的大纲"
             }
           },
           {
@@ -285,8 +287,8 @@
   },
   "active": "9ba5e1099bc09ec2",
   "lastOpenFiles": [
-    "数学/🌲1.函数（数列）极限和连续做题必记.md",
     "图片/27张宇1000题数一-解析册.pdf",
+    "数学/🌲1.函数（数列）极限和连续做题必记.md",
     "408/计算机组成原理/5.6 指令流水线.md",
     "图片/截屏2026-07-06 21.48.04.png",
     "图片/截屏2026-07-06 21.46.03.png",
