@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,13 +223,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/计算机组成原理/5.6 指令流水线.md",
+                "file": "图片/27张宇1000题数一-解析册.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "5.6 指令流水线 的大纲"
+              "title": "27张宇1000题数一-解析册 的大纲"
             }
           },
           {
@@ -284,8 +284,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "cd07e945f8db5db0",
+  "active": "9ba5e1099bc09ec2",
   "lastOpenFiles": [
+    "408/计算机组成原理/5.6 指令流水线.md",
     "图片/截屏2026-07-06 21.48.04.png",
     "图片/截屏2026-07-06 21.46.03.png",
     "图片/截屏2026-07-06 21.45.49.png",
@@ -296,8 +297,6 @@
     "图片/截屏2026-07-06 21.40.38.png",
     "图片/截屏2026-07-06 21.38.52.png",
     "图片/截屏2026-07-06 21.34.16.png",
-    "图片/截屏2026-07-06 21.34.04.png",
-    "408/计算机组成原理/5.6 指令流水线.md",
     "408/计算机组成原理/5.5 异常和中断机制.md",
     "408/计算机组成原理/5.1 CPU的功能和基本结构.md",
     "408/计算机组成原理/5.4 控制器的功能和工作原理.md",
