@@ -1,28 +1,14 @@
 {
   "main": {
-    "id": "ef4bab4d9dcd3d74",
+    "id": "922cb5026b01fb33",
     "type": "split",
     "children": [
       {
-        "id": "329f2b421cbec76e",
+        "id": "236e4b5ebfa68590",
         "type": "tabs",
         "children": [
           {
-            "id": "1f9ba1b7e6d72db9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/计算机组成原理/5.4 控制器的功能和工作原理.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5.4 控制器的功能和工作原理"
-            }
-          },
-          {
-            "id": "9ba5e1099bc09ec2",
+            "id": "9c812c196c9dc01e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,90 +19,23 @@
               },
               "icon": "lucide-file",
               "title": "1 计算机系统概述"
-            }
-          },
-          {
-            "id": "af322cd0e5ef511e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/计算机组成原理/5.1 CPU的功能和基本结构.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5.1 CPU的功能和基本结构"
-            }
-          },
-          {
-            "id": "bcee13dc96d14768",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/操作系统/1 计算机系统概述.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 计算机系统概述"
-            }
-          },
-          {
-            "id": "7f38da9841ebd05a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11408考研作战手册/01-每日计划/2026-07-04 Day004 D-168.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-07-04 Day004 D-168"
-            }
-          },
-          {
-            "id": "cd07e945f8db5db0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/计算机组成原理/5.6 指令流水线.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5.6 指令流水线"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9f111dde9076a289",
+    "id": "029e866af6818268",
     "type": "split",
     "children": [
       {
-        "id": "45cb01fd14073e23",
+        "id": "c92580a4825fde65",
         "type": "tabs",
         "children": [
           {
-            "id": "bd8085244ec53d6c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          },
-          {
-            "id": "bd29c57c5f4070df",
+            "id": "87c6ab7902ab123d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -129,12 +48,12 @@
             }
           },
           {
-            "id": "7235353156437db6",
+            "id": "792ab10c81614748",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#端口",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +65,7 @@
             }
           },
           {
-            "id": "fceb503807d6a755",
+            "id": "d77133ca1ca2cc14",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -155,57 +74,56 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
+    "width": 300,
     "collapsed": true
   },
   "right": {
-    "id": "5bc5633bbbb3025a",
+    "id": "e78ce247df6f6729",
     "type": "split",
     "children": [
       {
-        "id": "d3c1040dbb136c28",
+        "id": "dd79fc861b30849b",
         "type": "tabs",
         "children": [
           {
-            "id": "267413da14145e7c",
+            "id": "905b15413940e40f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "yy/长难句/2026-4-7.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "408/操作系统/1 计算机系统概述.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-4-7 的反向链接列表"
+              "title": "1 计算机系统概述 的反向链接列表"
             }
           },
           {
-            "id": "8f9767796e0ca8a7",
+            "id": "1a103433e56b5d87",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsp/1. 离散序列与系统.md",
+                "file": "408/操作系统/1 计算机系统概述.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "1. 离散序列与系统 的出链列表"
+              "title": "1 计算机系统概述 的出链列表"
             }
           },
           {
-            "id": "ef0dffdd45963432",
+            "id": "58d318c6e5f55614",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -220,7 +138,21 @@
             }
           },
           {
-            "id": "f0bb628d4378d79e",
+            "id": "4aff6af3ba02978d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "c2172796a85184cc",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -233,109 +165,37 @@
               "icon": "lucide-list",
               "title": "1 计算机系统概述 的大纲"
             }
-          },
-          {
-            "id": "ee8cf986ea5bbe12",
-            "type": "leaf",
-            "state": {
-              "type": "claudian-view",
-              "state": {},
-              "icon": "bot",
-              "title": "Claudian"
-            }
-          },
-          {
-            "id": "9cb6261986b56159",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "befe0af3a7e5f519",
-            "type": "leaf",
-            "state": {
-              "type": "code-execute-manage-executors",
-              "state": {},
-              "icon": "command-glyph",
-              "title": "Execution Runtimes"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "realclaudian:Open Claudian": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "bases:新建数据库": false,
+      "realclaudian:Open Claudian": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "bases:新建数据库": false
     }
   },
-  "active": "bcee13dc96d14768",
+  "active": "9c812c196c9dc01e",
   "lastOpenFiles": [
-    "图片/截屏2026-07-08 18.21.58.png",
-    "图片/截屏2026-07-08 18.17.55.png",
-    "图片/截屏2026-07-08 18.11.21.png",
-    "408/操作系统/2.1 进程与线程简介.md",
-    "数学/🌲2.一元微分学及其应用.md",
-    "数学/🌲1.函数（数列）极限和连续做题必记.md",
-    "408/操作系统/1 计算机系统概述.md",
-    "图片/截屏2026-07-07 22.50.27.png",
-    "图片/截屏2026-07-07 22.46.34.png",
-    "图片/截屏2026-07-07 22.45.39.png",
-    "图片/截屏2026-07-07 22.43.25.png",
-    "408/操作系统/2.3 同步与互斥.md",
-    "408/操作系统/2.2 CPU调度.md",
-    "408/操作系统/3.2 虚拟内存管理.md",
-    "408/操作系统/3.1 内存管理.md",
-    "408/操作系统/2.4 死锁.md",
-    "图片/截屏2026-07-07 22.21.49.png",
-    "图片/截屏2026-07-07 22.21.31.png",
-    "图片/截屏2026-07-07 22.20.42.png",
-    "图片/截屏2026-07-07 22.17.56.png",
-    "图片/27张宇1000题数一-解析册.pdf",
-    "408/计算机组成原理/5.6 指令流水线.md",
-    "408/计算机组成原理/5.5 异常和中断机制.md",
-    "408/计算机组成原理/5.1 CPU的功能和基本结构.md",
-    "408/计算机组成原理/5.4 控制器的功能和工作原理.md",
-    "408/计算机组成原理/4.2 寻址方式.md",
-    "08_DL基础及论文进阶/00_基础知识/xiaohongshu-to-obsidian-skill.md",
-    "08_DL基础及论文进阶/00_基础知识/02_深度学习面试题/07_超参数调整/超参数调整.md",
-    "08_DL基础及论文进阶/00_基础知识/02_深度学习面试题/06_GAN/GAN.md",
-    "08_DL基础及论文进阶/00_基础知识/02_深度学习面试题/05_反向传播/反向传播.md",
-    "08_DL基础及论文进阶/00_基础知识/02_深度学习面试题/02_CNN/CNN.md",
-    "08_DL基础及论文进阶/00_基础知识/02_深度学习面试题/04_LSTM/LSTM.md",
-    "08_DL基础及论文进阶/00_基础知识/02_深度学习面试题/03_RNN/RNN.md",
-    "08_DL基础及论文进阶/00_基础知识/01_NumPy语法/05_随机数与统计/随机数与统计.md",
-    "08_DL基础及论文进阶/00_基础知识/02_深度学习面试题/01_神经网络/神经网络.md",
-    "08_DL基础及论文进阶/00_基础知识/01_NumPy语法/07_实战案例/实战案例.md",
-    "08_DL基础及论文进阶/00_基础知识/01_NumPy语法/06_PyTorch对照/06.3_优化器对照.md",
-    "08_DL基础及论文进阶/03_训练基础设施/21_Muon/Muon 原文.pdf",
-    "08_DL基础及论文进阶/03_训练基础设施/20_GaLore/GaLore 原文.pdf",
-    "08_DL基础及论文进阶/03_训练基础设施/17_SmoothQuant/SmoothQuant 原文.pdf",
-    "08_DL基础及论文进阶/03_训练基础设施/19_Wanda/Wanda 原文.pdf",
-    "08_DL基础及论文进阶/03_训练基础设施/18_SparseGPT/SparseGPT 原文.pdf",
-    "08_DL基础及论文进阶/03_训练基础设施/16_AWQ/AWQ 原文.pdf",
-    "08_DL基础及论文进阶/03_训练基础设施/15_GPTQ/GPTQ 原文.pdf",
-    "08_DL基础及论文进阶/03_训练基础设施/14_LLM.int8/LLM.int8() 原文.pdf",
-    "08_DL基础及论文进阶/03_训练基础设施/13_QLoRA/QLoRA 原文.pdf",
-    "未命名 1.canvas",
-    "未命名 2.canvas",
-    "未命名.canvas"
+    "截屏2026-07-08 22.36.34.png",
+    "截屏2026-07-08 22.31.03.png",
+    "截屏2026-07-08 22.29.22.png",
+    "截屏2026-07-08 22.27.34.png",
+    "截屏2026-07-08 22.26.54.png",
+    "截屏2026-07-08 22.24.33.png",
+    "截屏2026-07-08 22.20.24.png"
   ]
 }
