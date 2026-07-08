@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/🌲2.一元微分学及其应用.md",
+                "file": "408/操作系统/1 计算机系统概述.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌲2.一元微分学及其应用"
+              "title": "1 计算机系统概述"
             }
           },
           {
@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 309.5,
+    "collapsed": true
   },
   "right": {
     "id": "5bc5633bbbb3025a",
@@ -224,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学/🌲2.一元微分学及其应用.md",
+                "file": "408/操作系统/1 计算机系统概述.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🌲2.一元微分学及其应用 的大纲"
+              "title": "1 计算机系统概述 的大纲"
             }
           },
           {
@@ -287,13 +288,14 @@
   },
   "active": "bcee13dc96d14768",
   "lastOpenFiles": [
+    "408/操作系统/2.1 进程与线程简介.md",
+    "数学/🌲2.一元微分学及其应用.md",
     "数学/🌲1.函数（数列）极限和连续做题必记.md",
     "408/操作系统/1 计算机系统概述.md",
     "图片/截屏2026-07-07 22.50.27.png",
     "图片/截屏2026-07-07 22.46.34.png",
     "图片/截屏2026-07-07 22.45.39.png",
     "图片/截屏2026-07-07 22.43.25.png",
-    "408/操作系统/2.1 进程与线程简介.md",
     "408/操作系统/2.3 同步与互斥.md",
     "408/操作系统/2.2 CPU调度.md",
     "408/操作系统/3.2 虚拟内存管理.md",
