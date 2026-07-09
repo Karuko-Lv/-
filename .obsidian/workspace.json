@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "1 计算机系统概述"
             }
+          },
+          {
+            "id": "195840d367321ee9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11408考研作战手册/01-每日计划/2026-07-05 Day005 D-167.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-05 Day005 D-167"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e78ce247df6f6729",
@@ -157,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/操作系统/1 计算机系统概述.md",
+                "file": "11408考研作战手册/01-每日计划/2026-07-05 Day005 D-167.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1 计算机系统概述 的大纲"
+              "title": "2026-07-05 Day005 D-167 的大纲"
             }
           }
         ],
@@ -188,8 +202,10 @@
       "bases:新建数据库": false
     }
   },
-  "active": "9c812c196c9dc01e",
+  "active": "195840d367321ee9",
   "lastOpenFiles": [
+    "11408考研作战手册/01-每日计划/❌2026-07-04 Day004 D-168.md",
+    "408/操作系统/1 计算机系统概述.md",
     "截屏2026-07-09 11.36.22.png",
     "截屏2026-07-09 11.34.00.png",
     "截屏2026-07-09 11.29.06.png",
@@ -199,7 +215,6 @@
     "截屏2026-07-09 11.12.10.png",
     "截屏2026-07-09 11.05.31.png",
     "截屏2026-07-09 11.03.25.png",
-    "截屏2026-07-09 10.57.29.png",
-    "截屏2026-07-09 10.56.31.png"
+    "截屏2026-07-09 10.57.29.png"
   ]
 }
